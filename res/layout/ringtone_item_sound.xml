@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:foreground="?selectableItemBackground"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true">
+        <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/gutter_width_percent" />
+        <RelativeLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="@integer/guttered_content_width_percent">
+            <LinearLayout android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/ringtone_image" android:layout_width="40.0dip" android:layout_height="40.0dip" android:scaleType="center" android:importantForAccessibility="no" />
+                <TextView android:textSize="@dimen/alarm_text_font_size" android:textColor="@color/white" android:id="@id/ringtone_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" />
+            </LinearLayout>
+            <ImageView android:id="@id/sound_image_selected" android:visibility="gone" android:layout_width="40.0dip" android:layout_height="40.0dip" android:scaleType="center" android:tint="?colorAccent" android:layout_centerVertical="true" android:importantForAccessibility="no" android:layout_alignParentEnd="true" app:srcCompat="@drawable/ic_checkmark" />
+        </RelativeLayout>
+        <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/gutter_width_percent" />
+    </LinearLayout>
+</FrameLayout>

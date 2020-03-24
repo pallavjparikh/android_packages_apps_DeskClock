@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">[Å=Åɓîðĵåñ|Africa/Abidjan one two]</string>
+    <string name="C10">[Ð=Ðåķåŕ|Africa/Dakar one two]</string>
+    <string name="C100">[Å=Åḿḿåñ|Asia/Amman one two]</string>
+    <string name="C101">[Å=Åñåðýŕ|Asia/Anadyr one two]</string>
+    <string name="C102">[Å=ÅQţåû|Asia/Aqtau one two]</string>
+    <string name="C103">[β=βåĝĥðåð|Asia/Baghdad one two]</string>
+    <string name="C104">[β=βåĥŕåîñ|Asia/Bahrain one two]</string>
+    <string name="C105">[β=βåķû|Asia/Baku one]</string>
+    <string name="C106">[β=βåñĝķöķ|Asia/Bangkok one two]</string>
+    <string name="C107">[β=βéîŕûţ|Asia/Beirut one two]</string>
+    <string name="C108">[Ķ=Ķöļķåţå|Asia/Calcutta one two]</string>
+    <string name="C109">[Ð=Ðåḿåšçûš|Asia/Damascus one two]</string>
+    <string name="C11">[Ð=Ðåŕ éš Šåļååḿ|Africa/Dar_es_Salaam one two three]</string>
+    <string name="C110">[Ð=Ðĥåķå|Asia/Dhaka one two]</string>
+    <string name="C111">[Ð=Ðûɓåî|Asia/Dubai one two]</string>
+    <string name="C112">[Ĝ=Ĝåžå|Asia/Gaza one]</string>
+    <string name="C113">[Ĥ=Ĥéɓŕöñ|Asia/Hebron one two]</string>
+    <string name="C114">[Ĥ=Ĥö Çĥî Ḿîñĥ|Asia/Ho_Chi_Minh one two]</string>
+    <string name="C115">[Ĥ=Ĥöñĝ Ķöñĝ:|Asia/Hong_Kong one two]</string>
+    <string name="C117">[Ĵ=Ĵåķåŕţå|Asia/Jakarta one two]</string>
+    <string name="C118">[Ĵ=Ĵéŕûšåļéḿ|Asia/Jerusalem one two]</string>
+    <string name="C119">[Ķ=Ķåɓûļ|Asia/Kabul one two]</string>
+    <string name="C12">[Ð=Ðĵîɓöûţî|Africa/Djibouti one two]</string>
+    <string name="C120">[Ķ=Ķåŕåçĥî|Asia/Karachi one two]</string>
+    <string name="C121">[Ķ=Ķåţĥḿåñðû|Asia/Kathmandu one two]</string>
+    <string name="C122">[Ķ=Ķûåļå Ļûḿþûŕ|Asia/Kuala_Lumpur one two]</string>
+    <string name="C123">[Ķ=Ķûŵåîţ|Asia/Kuwait one two]</string>
+    <string name="C124">[Ḿ=Ḿåçåû|Asia/Macau one two]</string>
+    <string name="C125">[Ḿ=Ḿåñîļå|Asia/Manila one two]</string>
+    <string name="C126">[Ḿ=Ḿûšçåţ|Asia/Muscat one two]</string>
+    <string name="C127">[Þ=Þĥñöḿ Þéñĥ|Asia/Phnom_Penh one two]</string>
+    <string name="C128">[Þ=Þýöñĝýåñĝ:|Asia/Pyongyang one two]</string>
+    <string name="C13">[F=Fŕééţöŵñ|Africa/Freetown one two]</string>
+    <string name="C130">[Ŕ=Ŕåñĝööñ|Asia/Rangoon one two]</string>
+    <string name="C131">[Ŕ=Ŕîýåðĥ|Asia/Riyadh one two]</string>
+    <string name="C133">[Š=Šéöûļ|Asia/Seoul one two]</string>
+    <string name="C134">[Š=Šĥåñĝĥåî:|Asia/Shanghai one two]</string>
+    <string name="C135">[Š=Šîñĝåþöŕé|Asia/Singapore one two]</string>
+    <string name="C136">[Ţ=Ţåîþéî:|Asia/Taipei one two]</string>
+    <string name="C137">[Ţ=Ţéĥŕåñ|Asia/Tehran one two]</string>
+    <string name="C138">[Ţ=Ţéļ ÅVîV|Asia/Tel_Aviv one two]</string>
+    <string name="C139">[Ţ=Ţöķýö:|Asia/Tokyo one two]</string>
+    <string name="C14">[Ĝ=Ĝåɓöŕöñé|Africa/Gaborone one two]</string>
+    <string name="C140">[Û=Ûļååñɓååţåŕ|Asia/Ulaanbaatar one two]</string>
+    <string name="C141">[β=βéŕḿûðå|Atlantic/Bermuda one two]</string>
+    <string name="C142">[Ç=Çåñåŕý|Atlantic/Canary one two]</string>
+    <string name="C143">[Ç=Çåþé νéŕðé|Atlantic/Cape_Verde one two]</string>
+    <string name="C144">[Ŕ=ŔéýķĵåVîķ|Atlantic/Reykjavik one two]</string>
+    <string name="C145">[Š=Šţåñļéý|Atlantic/Stanley one two]</string>
+    <string name="C146">[Å=Åðéļåîðé|Australia/Adelaide one two]</string>
+    <string name="C147">[β=βŕîšɓåñé|Australia/Brisbane one two]</string>
+    <string name="C148">[Ç=Çåñɓéŕŕå|Australia/Canberra one two]</string>
+    <string name="C149">[Ð=Ðåŕŵîñ|Australia/Darwin one two]</string>
+    <string name="C15">[Ĥ=Ĥåŕåŕé|Africa/Harare one two]</string>
+    <string name="C150">[Ḿ=Ḿéļɓöûŕñé|Australia/Melbourne one two]</string>
+    <string name="C151">[Ñ=Ñéŵ Šöûţĥ Ŵåļéš|Australia/NSW one two three]</string>
+    <string name="C152">[Þ=Þéŕţĥ|Australia/Perth one two]</string>
+    <string name="C153">[q=qûééñšļåñð|Australia/Queensland one two]</string>
+    <string name="C154">[Š=Šýðñéý|Australia/Sydney one two]</string>
+    <string name="C155">[ν=νîçţöŕîå|Australia/Victoria one two]</string>
+    <string name="C156">[Ñ=Ñéŵƒöûñðļåñð|Canada/Newfoundland one two]</string>
+    <string name="C157">[Š=Šåšķåţçĥéŵåñ|Canada/Saskatchewan one two]</string>
+    <string name="C158">[É=Éåšţéŕ Îšļåñð|Chile/EasterIsland one two three]</string>
+    <string name="C159">[Å=Åḿšţéŕðåḿ|Europe/Amsterdam one two]</string>
+    <string name="C16">[Ĵ=Ĵöĥåññéšɓûŕĝ|Africa/Johannesburg one two]</string>
+    <string name="C160">[Å=Åñðöŕŕå|Europe/Andorra one two]</string>
+    <string name="C161">[Å=Åţĥéñš|Europe/Athens one two]</string>
+    <string name="C162">[β=βéļƒåšţ|Europe/Belfast one two]</string>
+    <string name="C163">[β=βéļĝŕåðé|Europe/Belgrade one two]</string>
+    <string name="C164">[β=βéŕļîñ|Europe/Berlin one two]</string>
+    <string name="C165">[β=βŕåţîšļåVå|Europe/Bratislava one two]</string>
+    <string name="C166">[β=βŕûššéļš|Europe/Brussels one two]</string>
+    <string name="C167">[β=βûçĥåŕéšţ|Europe/Bucharest one two]</string>
+    <string name="C168">[β=βûðåþéšţ|Europe/Budapest one two]</string>
+    <string name="C169">[Ç=Çĥîšîñåû|Europe/Chisinau one two]</string>
+    <string name="C17">[Ķ=Ķåḿþåļå|Africa/Kampala one two]</string>
+    <string name="C170">[Ç=Çöþéñĥåĝéñ|Europe/Copenhagen one two]</string>
+    <string name="C171">[Ð=Ðûɓļîñ|Europe/Dublin one two]</string>
+    <string name="C172">[Ĝ=Ĝîɓŕåļţåŕ|Europe/Gibraltar one two]</string>
+    <string name="C173">[Ĥ=Ĥéļšîñķî|Europe/Helsinki one two]</string>
+    <string name="C174">[Î=Îšļé öƒ Ḿåñ|Europe/Isle_of_Man one two]</string>
+    <string name="C175">[Î=Îšţåñɓûļ|Europe/Istanbul one two]</string>
+    <string name="C176">[Ķ=ĶîéV|Europe/Kiev one]</string>
+    <string name="C177">[Ļ=Ļîšɓöñ|Europe/Lisbon one two]</string>
+    <string name="C178">[Ļ=Ļöñðöñ|Europe/London one two]</string>
+    <string name="C179">[Ļ=Ļûхéḿɓöûŕĝ|Europe/Luxembourg one two]</string>
+    <string name="C18">[Ķ=Ķĥåŕţöûḿ|Africa/Khartoum one two]</string>
+    <string name="C180">[Ḿ=Ḿåðŕîð|Europe/Madrid one two]</string>
+    <string name="C181">[Ḿ=Ḿåļţå|Europe/Malta one two]</string>
+    <string name="C182">[Ḿ=Ḿîñšķ|Europe/Minsk one two]</string>
+    <string name="C183">[Ḿ=Ḿöñåçö|Europe/Monaco one two]</string>
+    <string name="C184">[Ḿ=Ḿöšçöŵ|Europe/Moscow one two]</string>
+    <string name="C185">[Ö=Öšļö|Europe/Oslo one]</string>
+    <string name="C186">[Þ=Þåŕîš|Europe/Paris one two]</string>
+    <string name="C187">[Þ=Þŕåĝûé|Europe/Prague one two]</string>
+    <string name="C188">[Ŕ=Ŕîĝå|Europe/Riga one]</string>
+    <string name="C189">[Ŕ=Ŕöḿé|Europe/Rome one]</string>
+    <string name="C19">[Ķ=Ķîĝåļî|Africa/Kigali one two]</string>
+    <string name="C190">[Š=Šåñ Ḿåŕîñö|Europe/San_Marino one two]</string>
+    <string name="C191">[Š=ŠåŕåĵéVö|Europe/Sarajevo one two]</string>
+    <string name="C192">[Š=Šîḿƒéŕöþöļ|Europe/Simferopol one two]</string>
+    <string name="C193">[Š=Šķöþĵé|Europe/Skopje one two]</string>
+    <string name="C194">[Š=Šöƒîå|Europe/Sofia one two]</string>
+    <string name="C195">[Š=Šţöçķĥöļḿ|Europe/Stockholm one two]</string>
+    <string name="C196">[Ţ=Ţåļļîññ|Europe/Tallinn one two]</string>
+    <string name="C197">[ν=νåţîçåñ|Europe/Vatican one two]</string>
+    <string name="C198">[ν=νîéññå|Europe/Vienna one two]</string>
+    <string name="C199">[ν=νîļñîûš|Europe/Vilnius one two]</string>
+    <string name="C2">[Å=Åççŕå|Africa/Accra one two]</string>
+    <string name="C20">[Ķ=Ķîñšĥåšå|Africa/Kinshasa one two]</string>
+    <string name="C200">[Ŵ=Ŵåŕšåŵ|Europe/Warsaw one two]</string>
+    <string name="C201">[Ž=Žåĝŕéɓ|Europe/Zagreb one two]</string>
+    <string name="C202">[Ž=Žûŕîçĥ|Europe/Zurich one two]</string>
+    <string name="C203">[Å=ÅñţåñåñåŕîVö|Indian/Antananarivo one two]</string>
+    <string name="C204">[Ḿ=ḾåļðîVéš|Indian/Maldives one two]</string>
+    <string name="C205">[Ḿ=Ḿåûŕîţîûš|Indian/Mauritius one two]</string>
+    <string name="C206">[Å=Åûçķļåñð|Pacific/Auckland one two]</string>
+    <string name="C207">[F=Fîĵî|Pacific/Fiji one]</string>
+    <string name="C208">[Ĝ=Ĝûåḿ|Pacific/Guam one]</string>
+    <string name="C209">[Ĥ=Ĥöñöļûļû|Pacific/Honolulu one two]</string>
+    <string name="C21">[Ļ=Ļåĝöš|Africa/Lagos one two]</string>
+    <string name="C210">[Ķ=Ķîŕîţîḿåţî|Pacific/Kiritimati one two]</string>
+    <string name="C211">[Ñ=Ñöûḿéå|Pacific/Noumea one two]</string>
+    <string name="C214">[Å=Åñţîĝûå|America/Antigua one two]</string>
+    <string name="C215">[Å=Åûšţîñ|America/Chicago one two]</string>
+    <string name="C216">[β=βöšţöñ|America/New_York one two]</string>
+    <string name="C217">[Ç=Çåļĝåŕý|America/Denver one two]</string>
+    <string name="C218">[Ç=Çöļûḿɓûš|America/New_York one two]</string>
+    <string name="C219">[Ð=Ðåļļåš|America/Chicago one two]</string>
+    <string name="C22">[Ḿ=Ḿåšéŕû|Africa/Maseru one two]</string>
+    <string name="C220">[Ķ=ĶñöхVîļļé|America/New_York one two]</string>
+    <string name="C221">[Ḿ=Ḿéḿþĥîš|America/Chicago one two]</string>
+    <string name="C222">[Ḿ=Ḿîåḿî|America/New_York one two]</string>
+    <string name="C223">[Ḿ=Ḿîññéåþöļîš|America/Chicago one two]</string>
+    <string name="C224">[Ö=Öţţåŵå|America/New_York one two]</string>
+    <string name="C225">[Þ=Þĥîļåðéļþĥîå|America/New_York one two]</string>
+    <string name="C226">[Þ=Þöŕţļåñð|America/Los_Angeles one two]</string>
+    <string name="C227">[Š=Šåñ Ðîéĝö|America/Los_Angeles one two]</string>
+    <string name="C228">[Š=Šåñ Fŕåñçîšçö|America/Los_Angeles one two three]</string>
+    <string name="C229">[Š=Šåļţ Ļåķé Çîţý|America/Denver one two three]</string>
+    <string name="C23">[Ḿ=Ḿöĝåðîšĥû|Africa/Mogadishu one two]</string>
+    <string name="C230">[Š=Šåñ Ĵöšé|America/Los_Angeles one two]</string>
+    <string name="C231">[Š=Šåñ ŠåļVåðöŕ|America/Guatemala one two]</string>
+    <string name="C232">[Š=Šéåţţļé|America/Los_Angeles one two]</string>
+    <string name="C233">[Š=Šţ. Ļöûîš|America/Chicago one two]</string>
+    <string name="C234">[Ŵ=Ŵåšĥîñĝţöñ Ð.Ç.|America/New_York one two three]</string>
+    <string name="C235">[Ĥ=Ĥöûšţöñ|America/Chicago one two]</string>
+    <string name="C236">[Š=Šåñ Åñţöñîö|America/Chicago one two]</string>
+    <string name="C237">[Ĵ=ĴåçķšöñVîļļé|America/New_York one two]</string>
+    <string name="C238">[β=βåļţîḿöŕé|America/New_York one two]</string>
+    <string name="C239">[Ñ=ÑåšĥVîļļé|America/Chicago one two]</string>
+    <string name="C24">[Ñ=Ñåîŕöɓî|Africa/Nairobi one two]</string>
+    <string name="C240">[Ḿ=Ḿîļŵåûķéé|America/Chicago one two]</string>
+    <string name="C241">[Ö=Öķļåĥöḿå Çîţý|America/Chicago one two three]</string>
+    <string name="C242">[Ļ=Ļåš νéĝåš|America/Los_Angeles one two]</string>
+    <string name="C243">[Å=ÅļɓûQûéŕQûé|America/Denver one two]</string>
+    <string name="C244">[Ţ=Ţûçšöñ|MST one two]</string>
+    <string name="C245">[Š=Šåçŕåḿéñţö|America/Los_Angeles one two]</string>
+    <string name="C246">[Å=Åţļåñţå|America/New_York one two]</string>
+    <string name="C247">[Ç=ÇļéVéļåñð|America/New_York one two]</string>
+    <string name="C248">[Ñ=Ñéŵ Öŕļéåñš|America/Chicago one two]</string>
+    <string name="C249">[Ţ=Ţåḿþå|America/New_York one two]</string>
+    <string name="C25">[Š=Šãö Ţöḿé|Africa/Sao_Tome one two]</string>
+    <string name="C250">[Þ=Þîţţšɓûŕĝĥ|America/New_York one two]</string>
+    <string name="C251">[Ç=Çîñçîññåţî|America/New_York one two]</string>
+    <string name="C252">[Ḿ=Ḿöûñţåîñ νîéŵ|America/Los_Angeles one two three]</string>
+    <string name="C253">[Ŕ=Ŕéñö|America/Los_Angeles one]</string>
+    <string name="C254">[β=βļåçķ Ŕöçķ Çîţý|America/Los_Angeles one two three]</string>
+    <string name="C255">[Ð=Ðöĥå|Asia/Riyadh one]</string>
+    <string name="C256">[β=βéîĵîñĝ:|Asia/Shanghai one two]</string>
+    <string name="C257">[Ḿ=Ḿûḿɓåî|Asia/Kolkata one two]</string>
+    <string name="C258">[Ð=Ðéļĥî|Asia/Kolkata one two]</string>
+    <string name="C259">[Ö=Öšåķå:|Asia/Tokyo one two]</string>
+    <string name="C26">[Ţ=Ţîḿɓûķţû|Africa/Timbuktu one two]</string>
+    <string name="C260">[Ļ=Ļåĥöŕé|Asia/Karachi one two]</string>
+    <string name="C261">[Š=|Asia/Riyadh one]</string>
+    <string name="C262">[β=βåŕçéļöñå|Europe/Madrid one two]</string>
+    <string name="C263">[Ḿ=Ḿûñîçĥ|Europe/Berlin one two]</string>
+    <string name="C264">[Ḿ=Ḿîļåñ|Europe/Rome one two]</string>
+    <string name="C265">[F=Fŕåñķƒûŕţ|Europe/Berlin one two]</string>
+    <string name="C266">[Ĥ=Ĥåñöî|Asia/Bangkok one two]</string>
+    <string name="C267">[Å=Åñķåŕå|Europe/Istanbul one two]</string>
+    <string name="C268">[β=βåñĝåļöŕé|Asia/Kolkata one two]</string>
+    <string name="C269">[β=βŕåšíļîå|America/Sao_Paulo one two]</string>
+    <string name="C27">[Ţ=Ţŕîþöļî|Africa/Tripoli one two]</string>
+    <string name="C270">[Ç=Çåþé Ţöŵñ|Africa/Johannesburg one two]</string>
+    <string name="C271">[Î=Îšļåḿåɓåð|Asia/Karachi one two]</string>
+    <string name="C272">[Ŕ=Ŕîö ðé Ĵåñéîŕö|America/Sao_Paulo one two three]</string>
+    <string name="C273">[Å=Åññ Åŕɓöŕ|America/Detroit one two]</string>
+    <string name="C274">[β=βöûļðéŕ|America/Denver one two]</string>
+    <string name="C275">[Ç=Çåḿɓŕîðĝé|America/New_York one two]</string>
+    <string name="C276">[Ķ=Ķîŕķļåñð|America/Los_Angeles one two]</string>
+    <string name="C277">[Ḿ=Ḿåðîšöñ|America/Chicago one two]</string>
+    <string name="C278">[Ĝ=Ĝûåñĝžĥöû:|Asia/Shanghai one two]</string>
+    <string name="C279">[Ĥ=Ĥýðéŕåɓåð|Asia/Kolkata one two]</string>
+    <string name="C28">[Ţ=Ţûñîš|Africa/Tunis one two]</string>
+    <string name="C280">[Ŕ=Ŕéšţöñ|America/New_York one two]</string>
+    <string name="C281">[β=βéļö Ĥöŕîžöñţé|America/Sao_Paulo one two three]</string>
+    <string name="C282">[Š=Šåñţîåĝö|America/Santiago one two]</string>
+    <string name="C283">[Ḿ=ḾöñŕöVîå|Africa/Monrovia one two]</string>
+    <string name="C284">[Ç=Çöļöḿɓö|Asia/Colombo one two]</string>
+    <string name="C285">[Ç=Çĥîĥûåĥûå|America/Chihuahua one two]</string>
+    <string name="C286">[Š=ŠåļVåðöŕ|America/Sao_Paulo one two]</string>
+    <string name="C287">[Ĝ=Ĝûŕĝåöñ|Asia/Kolkata one two]</string>
+    <string name="C288">[Ḿ=Ḿåñçĥéšţéŕ|Europe/London one two]</string>
+    <string name="C29">[Å=Åñçĥöŕåĝé|America/Anchorage one two]</string>
+    <string name="C290">[Š=Šţ. Þéţéŕšɓûŕĝ|Europe/Moscow one two three]</string>
+    <string name="C291">[Ķ=Ķŕåķóŵ|Europe/Warsaw one two]</string>
+    <string name="C292">[Ŵ=Ŵŕöçļåŵ|Europe/Warsaw one two]</string>
+    <string name="C293">[Ĥ=Ĥåḿɓûŕĝ|Europe/Berlin one two]</string>
+    <string name="C294">[Ö=Öûļû|Europe/Bucharest one]</string>
+    <string name="C295">[Ĥ=Ĥåîƒå|Asia/Jerusalem one two]</string>
+    <string name="C296">[Š=Šåñ Ĵûåñ|America/Puerto_Rico one two]</string>
+    <string name="C297">[Ţ=Ţéĝûçîĝåļþå|America/Tegucigalpa one two]</string>
+    <string name="C298">[Þ=Þåŕåḿåŕîɓö|America/Paramaribo one two]</string>
+    <string name="C299">[q=qûîţö|America/Panama one two]</string>
+    <string name="C3">[Å=Åððîš Åɓåɓå|Africa/Addis_Ababa one two]</string>
+    <string name="C300">[Ļ=Ļĵûɓļĵåñå|Europe/Ljubljana one two]</string>
+    <string name="C301">[Å=Åšĥĝåɓåţ|Asia/Ashgabat one two]</string>
+    <string name="C302">[Å=Åšḿåŕå|Africa/Asmara one two]</string>
+    <string name="C303">[β=βåñðåŕ Šéŕî βéĝåŵåñ|Asia/Brunei one two three]</string>
+    <string name="C304">[β=βåñĝûî|Africa/Bangui one two]</string>
+    <string name="C305">[β=βåñĵûļ|Africa/Banjul one two]</string>
+    <string name="C306">[β=βîšĥķéķ|Asia/Bishkek one two]</string>
+    <string name="C307">[β=βîššåû|Africa/Bissau one two]</string>
+    <string name="C308">[β=βûĵûḿɓûŕå|Africa/Bujumbura one two]</string>
+    <string name="C309">[Ð=Ðîļî|Asia/Dili one]</string>
+    <string name="C31">[Å=Åŕûɓå|America/Aruba one two]</string>
+    <string name="C310">[Ð=Ðûšĥåñɓé|Asia/Dushanbe one two]</string>
+    <string name="C311">[F=Fûñåƒûţî|Pacific/Funafuti one two]</string>
+    <string name="C312">[Ĥ=Ĥöñîåŕå|Pacific/Guadalcanal one two]</string>
+    <string name="C313">[Ĵ=Ĵûɓå|Africa/Juba one]</string>
+    <string name="C314">[Ķ=Ķîñĝšţöŵñ|America/St_Vincent one two]</string>
+    <string name="C315">[Ļ=ĻîɓŕéVîļļé|Africa/Libreville one two]</string>
+    <string name="C316">[Ļ=Ļöḿé|Africa/Lome one two]</string>
+    <string name="C317">[Ļ=Ļûåñðå|Africa/Luanda one two]</string>
+    <string name="C318">[Ļ=Ļûšåķå|Africa/Lusaka one two]</string>
+    <string name="C319">[Ḿ=Ḿåĵûŕö|Pacific/Majuro one two]</string>
+    <string name="C32">[Å=Åšûñçîóñ|America/Asuncion one two]</string>
+    <string name="C320">[Ḿ=Ḿåļåɓö|Africa/Malabo one two]</string>
+    <string name="C321">[Ḿ=Ḿåþûţö|Africa/Maputo one two]</string>
+    <string name="C322">[Ḿ=Ḿɓåɓåñé|Africa/Mbabane one two]</string>
+    <string name="C323">[Ḿ=Ḿöŕöñî|Indian/Comoro one two]</string>
+    <string name="C324">"[Ñ=Ñ'Ðĵåḿéñå|Africa/Ndjamena one two]"</string>
+    <string name="C325">[Ñ=Ñĝéŕûļḿûð|Pacific/Palau one two]</string>
+    <string name="C326">[Ñ=Ñîåḿéý|Africa/Niamey one two]</string>
+    <string name="C327">[Ñ=Ñîçöšîå|Europe/Nicosia one two]</string>
+    <string name="C328">[Ñ=Ñöûåķçĥöţţ|Africa/Nouakchott one two]</string>
+    <string name="C329">"[Ñ=Ñûķû'åļöƒå|Pacific/Tongatapu one two]"</string>
+    <string name="C33">[β=βåŕɓåðöš|America/Barbados one two]</string>
+    <string name="C330">[Ö=Öûåĝåðöûĝöû|Africa/Ouagadougou one two]</string>
+    <string name="C331">[Þ=Þåļîķîŕ|Pacific/Noumea one two]</string>
+    <string name="C332">[Þ=Þĥîļîþšɓûŕĝ|America/Lower_Princes one two]</string>
+    <string name="C333">[Þ=Þöðĝöŕîçå|Europe/Podgorica one two]</string>
+    <string name="C334">[Þ=Þöŕţ Ḿöŕéšɓý|Pacific/Palau one two]</string>
+    <string name="C335">[Þ=Þöŕţ νîļå|Pacific/Efate one two]</string>
+    <string name="C336">[Þ=Þöŕţö-ÑöVö|Africa/Porto-Novo one two]</string>
+    <string name="C337">[Þ=Þŕîšţîñå|Europe/Belgrade one two]</string>
+    <string name="C338">[Ŕ=Ŕöšéåû|America/Dominica one two]</string>
+    <string name="C339">[Ţ=Ţåšĥķéñţ|Asia/Tashkent one two]</string>
+    <string name="C34">[β=βéļîžé|America/Belize one two]</string>
+    <string name="C340">[Ţ=Ţɓîļîšî|Asia/Tbilisi one two]</string>
+    <string name="C341">[Ţ=Ţĥîḿþĥû|Asia/Thimphu one two]</string>
+    <string name="C342">[Ţ=Ţîŕåñå|Europe/Tirane one two]</string>
+    <string name="C343">[ν=νåðûž|Europe/Vaduz one two]</string>
+    <string name="C344">[ν=νîéñţîåñé|Asia/Vientiane one two]</string>
+    <string name="C345">[Ŵ=Ŵîñðĥöéķ|Africa/Windhoek one two]</string>
+    <string name="C346">[Ý=Ýåöûñðé|Africa/Douala one two]</string>
+    <string name="C347">[Ý=Ýåŕéñ Ðîšţŕîçţ|Pacific/Nauru one two three]</string>
+    <string name="C348">[Ý=ÝéŕéVåñ|Asia/Yerevan one two]</string>
+    <string name="C35">[β=βöĝöţá|America/Bogota one two]</string>
+    <string name="C36">[β=βûéñöš Åîŕéš|America/Buenos_Aires one two]</string>
+    <string name="C37">[Ç=Çåñçûñ|America/Cancun one two]</string>
+    <string name="C38">[Ç=Çåŕåçåš|America/Caracas one two]</string>
+    <string name="C39">[Ç=Çåýḿåñ|America/Cayman one two]</string>
+    <string name="C4">[Å=Åļĝîéŕš|Africa/Algiers one two]</string>
+    <string name="C40">[Ç=Çĥîçåĝö|America/Chicago one two]</string>
+    <string name="C42">[Ç=Çûŕåçåö|America/Curacao one two]</string>
+    <string name="C43">[Ð=Ðåŵšöñ Çŕééķ|America/Dawson_Creek one two]</string>
+    <string name="C44">[Ð=ÐéñVéŕ|America/Denver one two]</string>
+    <string name="C45">[Ð=Ðéţŕöîţ|America/Detroit one two]</string>
+    <string name="C46">[Ð=Ðöḿîñîçå|America/Dominica one two]</string>
+    <string name="C47">[É=Éðḿöñţöñ|America/Edmonton one two]</string>
+    <string name="C48">[É=Éļ ŠåļVåðöŕ|America/El_Salvador one two]</string>
+    <string name="C49">[F=Föŕţåļéžå|America/Fortaleza one two]</string>
+    <string name="C5">[β=βļåñţýŕé|Africa/Blantyre one two]</string>
+    <string name="C50">[Ĝ=Ĝŕåñð Ţûŕķ|America/Grand_Turk one two]</string>
+    <string name="C51">[Ĝ=Ĝŕéñåðå|America/Grenada one two]</string>
+    <string name="C52">[Ĝ=Ĝûåţéḿåļå Çîţý|America/Guatemala one two three]</string>
+    <string name="C53">[Ĝ=Ĝûýåñå|America/Guyana one two]</string>
+    <string name="C54">[Ĥ=Ĥåļîƒåх|America/Halifax one two]</string>
+    <string name="C55">[Ĥ=ĤåVåñå|America/Havana one two]</string>
+    <string name="C56">[Î=Îñðîåñåþöļîš|America/Indiana/Indianapolis one two]</string>
+    <string name="C57">[Ķ=Ķñöх|America/Indiana/Knox one]</string>
+    <string name="C58">[Ḿ=Ḿåŕéñĝö|America/Indiana/Marengo one two]</string>
+    <string name="C59">[Þ=Þéţéŕšɓûŕĝ|America/Indiana/Petersburg one two]</string>
+    <string name="C6">[β=βŕåžžåVîļļé|Africa/Brazzaville one two]</string>
+    <string name="C60">[Ţ=Ţéļļ Çîţý|America/Indiana/Tell_City one two]</string>
+    <string name="C61">[ν=νéVåý|America/Indiana/Vevay one two]</string>
+    <string name="C62">[ν=νîñçéññéš|America/Indiana/Vincennes one two]</string>
+    <string name="C63">[Ŵ=Ŵîñåḿåç|America/Indiana/Winamac one two]</string>
+    <string name="C64">[Ķ=Ķîñĝšţöñ|America/Jamaica one two]</string>
+    <string name="C65">[Ñ=Ñûéšţŕå Šéñöŕå ðé Ļå Þåž|America/La_Paz one two three four]</string>
+    <string name="C66">[Ļ=Ļîḿå|America/Lima one]</string>
+    <string name="C67">[Ļ=Ļöš Åñĝéļéš|America/Los_Angeles one two]</string>
+    <string name="C68">[Ļ=ĻöûîšVîļļé|America/Louisville one two]</string>
+    <string name="C69">[Ḿ=Ḿåñåĝûå|America/Managua one two]</string>
+    <string name="C7">[Ç=Çåîŕö|Africa/Cairo one two]</string>
+    <string name="C70">[Ḿ=ḾåŕţîñîQûé|America/Martinique one two]</string>
+    <string name="C71">[Ḿ=Ḿéñðöžå|America/Mendoza one two]</string>
+    <string name="C72">[Ḿ=Ḿéţļåķåţļå|America/Metlakatla one two]</string>
+    <string name="C73">[Ḿ=Ḿéхîçö Çîţý|America/Mexico_City one two]</string>
+    <string name="C74">[Ḿ=Ḿöñţéŕŕéý|America/Monterrey one two]</string>
+    <string name="C75">[Ḿ=ḾöñţéVîðéö|America/Montevideo one two]</string>
+    <string name="C76">[Ḿ=Ḿöñţŕéåļ|America/Montreal one two]</string>
+    <string name="C77">[Ñ=Ñåššåû|America/Nassau one two]</string>
+    <string name="C78">[Ñ=Ñéŵ Ýöŕķ|America/New_York one two]</string>
+    <string name="C79">[β=βéûļåĥ|America/North_Dakota/Beulah one two]</string>
+    <string name="C8">[Ç=Çåšåɓļåñçå|Africa/Casablanca one two]</string>
+    <string name="C80">[Ç=Çéñţéŕ|America/North_Dakota/Center one two]</string>
+    <string name="C81">[Ñ=Ñéŵ Šåļéḿ|America/North_Dakota/New_Salem one two]</string>
+    <string name="C82">[Þ=Þåñåḿå|America/Panama one two]</string>
+    <string name="C83">[Þ=Þĥöéñîх|America/Phoenix one two]</string>
+    <string name="C84">[Þ=Þöŕţ öƒ Šþåîñ|America/Port_of_Spain one two three]</string>
+    <string name="C85">[Þ=Þöŕţ-åû-Þŕîñçé|America/Port-au-Prince one two three]</string>
+    <string name="C86">[Þ=Þûéŕţö Ŕîçö|America/Puerto_Rico one two]</string>
+    <string name="C87">[Š=Šåñţö Ðöḿîñĝö|America/Santo_Domingo one two three]</string>
+    <string name="C88">[Š=Šãö Þåûļö|America/Sao_Paulo one two]</string>
+    <string name="C89">[Š=Šţ. Ĵöĥñš|America/St_Johns one two]</string>
+    <string name="C9">[Ç=Çöñåķŕý|Africa/Conakry one two]</string>
+    <string name="C90">[Š=Šţ. Ķîţţš|America/St_Kitts one two]</string>
+    <string name="C91">[Š=Šţ. Ļûçîå|America/St_Lucia one two]</string>
+    <string name="C92">[Š=Šţ. Ţĥöḿåš|America/St_Thomas one two]</string>
+    <string name="C93">[Ţ=Ţîĵûåñå|America/Tijuana one two]</string>
+    <string name="C94">[Ţ=Ţöŕöñţö|America/Toronto one two]</string>
+    <string name="C95">[ν=νåñçöûVéŕ|America/Vancouver one two]</string>
+    <string name="C96">[Ŵ=Ŵîññîþéĝ|America/Winnipeg one two]</string>
+    <string name="C97">[Š=Šöûţĥ Þöļé:|Antarctica/South_Pole one two]</string>
+    <string name="C98">[Ļ=Ļöñĝýéåŕɓýéñ|Arctic/Longyearbyen one two]</string>
+    <string name="C99">[Å=Åļḿåţý|Asia/Almaty one two]</string>
+    <string name="abc_action_bar_home_description">[ÑåVîĝåţé ĥöḿé one two]</string>
+    <string name="abc_action_bar_up_description">[ÑåVîĝåţé ûþ one two]</string>
+    <string name="abc_action_menu_overflow_description">[Ḿöŕé öþţîöñš one two]</string>
+    <string name="abc_action_mode_done">[Ðöñé one]</string>
+    <string name="abc_activity_chooser_view_see_all">[Šéé åļļ one two]</string>
+    <string name="abc_activitychooserview_choose_application">[Çĥööšé åñ åþþ one two]</string>
+    <string name="abc_capital_off">[ÖFF one]</string>
+    <string name="abc_capital_on">[ÖÑ one]</string>
+    <string name="abc_menu_alt_shortcut_label">[Åļţ+ one]</string>
+    <string name="abc_menu_ctrl_shortcut_label">[Çţŕļ+ one]</string>
+    <string name="abc_menu_delete_shortcut_label">[ðéļéţé one two]</string>
+    <string name="abc_menu_enter_shortcut_label">[éñţéŕ one]</string>
+    <string name="abc_menu_function_shortcut_label">[Fûñçţîöñ+ one two]</string>
+    <string name="abc_menu_meta_shortcut_label">[Ḿéţå+ one]</string>
+    <string name="abc_menu_shift_shortcut_label">[Šĥîƒţ+ one two]</string>
+    <string name="abc_menu_space_shortcut_label">[šþåçé one]</string>
+    <string name="abc_menu_sym_shortcut_label">[Šýḿ+ one]</string>
+    <string name="abc_prepend_shortcut_label">[Ḿéñû+ one]</string>
+    <string name="abc_search_hint">[Šéåŕçĥ… one two]</string>
+    <string name="abc_searchview_description_clear">[Çļéåŕ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_query">[Šéåŕçĥ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_search">[Šéåŕçĥ one two]</string>
+    <string name="abc_searchview_description_submit">[Šûɓḿîţ Qûéŕý one two]</string>
+    <string name="abc_searchview_description_voice">[νöîçé šéåŕçĥ one two]</string>
+    <string name="abc_shareactionprovider_share_with">[Šĥåŕé ŵîţĥ one two]</string>
+    <string name="abc_shareactionprovider_share_with_application">[Šĥåŕé ŵîţĥ %s one two]</string>
+    <string name="abc_toolbar_collapse_description">[Çöļļåþšé one two]</string>
+    <string name="add_new_sound">[Åðð ñéŵ one two]</string>
+    <string name="alarm_alert_dismiss_text">[Ðîšḿîšš one two]</string>
+    <string name="alarm_alert_off_text">[Åļåŕḿ öƒƒ one two]</string>
+    <string name="alarm_alert_predismiss_title">[Ûþçöḿîñĝ åļåŕḿ one two three]</string>
+    <string name="alarm_alert_snooze_text">[Šñööžé one two]</string>
+    <string name="alarm_alert_snooze_until">[Šñööžîñĝ ûñţîļ %s one two three]</string>
+    <string name="alarm_alert_snoozed_text">[Šñööžéð one two]</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">"[%s åļåŕḿ çåñ'ţ ɓé ðîšḿîššéð ýéţ, šţîļļ ḿöŕé ţĥåñ 24 ĥöûŕš åŵåý one two three four five six seven]"</string>
+    <string name="alarm_deleted">[Åļåŕḿ ðéļéţéð one two]</string>
+    <string name="alarm_is_dismissed">[%s åļåŕḿ ðîšḿîššéð one two three]</string>
+    <string name="alarm_is_set">[Åļåŕḿ îš šéţ ƒöŕ %s one two three]</string>
+    <string name="alarm_is_snoozed">[%s åļåŕḿ šñööžéð ƒöŕ 10 ḿîñûţéš one two three four]</string>
+    <string name="alarm_missed_text" formatted="false">[%s - %s one]</string>
+    <string name="alarm_missed_title">[Ḿîššéð åļåŕḿ one two]</string>
+    <string name="alarm_repeat">[Ŕéþéåţ one two]</string>
+    <string name="alarm_settings">[Åļåŕḿš one two]</string>
+    <string name="alarm_sound">[Åļåŕḿ šöûñð one two]</string>
+    <string name="alarm_today">[Ţöðåý one]</string>
+    <string name="alarm_tomorrow">[Ţöḿöŕŕöŵ one two]</string>
+    <string name="alarm_undo">[ûñðö one]</string>
+    <string name="alarm_vibrate">[νîɓŕåţé one two]</string>
+    <string name="alarm_volume_muted">[Åļåŕḿ Vöļûḿé ḿûţéð one two three]</string>
+    <string name="alarm_volume_title">[Åļåŕḿ Vöļûḿé one two]</string>
+    <string name="alarms_blocked_by_dnd">[ÐéVîçé îš šéţ ţö ţöţåļ šîļéñçé one two three four]</string>
+    <string name="all_timers_stopped_notif">[Ţåþ ţö šéé ýöûŕ ţîḿéŕš one two three]</string>
+    <string name="analog_gadget">[Åñåļöĝ çļöçķ one two]</string>
+    <string name="app_label">[Çļöçķ one]</string>
+    <string name="app_notifications_blocked">[Çļöçķ ñöţîƒîçåţîöñš åŕé ɓļöçķéð one two three four]</string>
+    <string name="auto_silence_never">[ÑéVéŕ one]</string>
+    <string name="auto_silence_title">[Šîļéñçé åƒţéŕ one two]</string>
+    <string name="automatic_home_clock">[Åûţöḿåţîç ĥöḿé çļöçķ one two three]</string>
+    <string name="automatic_home_clock_summary">[Ŵĥîļé ţŕåVéļîñĝ îñ åñ åŕéå ŵĥéŕé ţĥé ţîḿé îš ðîƒƒéŕéñţ, åðð å çļöçķ ƒöŕ ĥöḿé one two three four five six seven eight]</string>
+    <string name="button_alarms">[Åðð åļåŕḿ one two]</string>
+    <string name="button_cities">[Çîţîéš one two]</string>
+    <string name="change_setting_action">[Çĥåñĝé one two]</string>
+    <string name="character_counter_content_description">[Çĥåŕåçţéŕš éñţéŕéð »%1$d« öƒ »%2$d« one two three]</string>
+    <string name="character_counter_overflowed_content_description">[Çĥåŕåçţéŕ ļîḿîţ éхçééðéð »%1$d« öƒ »%2$d« one two three four]</string>
+    <string name="chip_text">[Çĥîþ ţéхţ one two]</string>
+    <string name="cities_activity_title">[Çîţîéš one two]</string>
+    <string name="city_checked">[%s çĥéçķéð one two]</string>
+    <string name="city_unchecked">[%s ûñçĥéçķéð one two]</string>
+    <string name="clear_text_end_icon_content_description">[Çļéåŕ ţéхţ one two]</string>
+    <string name="clock_settings">[Çļöçķ one]</string>
+    <string name="clock_style">[Šţýļé one]</string>
+    <string name="collapse_alarm">[Çöļļåþšé åļåŕḿ one two three]</string>
+    <string name="confirm_remove_custom_ringtone">[Åļåŕḿš åñð ţîḿéŕš ûšîñĝ ţĥîš šöûñð ŵîļļ þļåý ţĥé ðéƒåûļţ šöûñð îñšţéåð. one two three four five six seven eight]</string>
+    <string name="copy">[Çöþý one]</string>
+    <string name="crescendo_duration_title">[Ĝŕåðûåļļý îñçŕéåšé Vöļûḿé one two three]</string>
+    <string name="custom_ringtone_lost_permissions">[Ţĥé šöûñð çöñţéñţ çåññöţ ɓé åççéššéð. one two three four five]</string>
+    <string name="day_concat">"[,  one]"</string>
+    <string name="default_alarm_ringtone_title">[Ðéƒåûļţ åļåŕḿ šöûñð one two three]</string>
+    <string name="default_label">[Åļåŕḿ one]</string>
+    <string name="default_timer_ringtone_title">[Ţîḿéŕ Éхþîŕéð one two]</string>
+    <string name="delete">[Ðéļéţé one two]</string>
+    <string name="description_direction_both">[Šŵîþé ļéƒţ ţö šñööžé öŕ ŕîĝĥţ ţö ðîšḿîšš one two three four five]</string>
+    <string name="description_direction_left">[Šŵîþé ļéƒţ ţö šñööžé one two three]</string>
+    <string name="description_direction_right">[Šŵîþé ŕîĝĥţ ţö ðîšḿîšš one two three]</string>
+    <string name="device_sounds">[ÐéVîçé šöûñðš one two]</string>
+    <string name="digital_gadget">[Ðîĝîţåļ çļöçķ one two]</string>
+    <string name="dismiss_alarm">[Ðîšḿîšš åļåŕḿ one two]</string>
+    <string name="display_clock_seconds_pref">[Ðîšþļåý ţîḿé ŵîţĥ šéçöñðš one two three]</string>
+    <string name="every_day">[ÉVéŕý ðåý one two]</string>
+    <string name="expand_alarm">[Éхþåñð åļåŕḿ one two]</string>
+    <string name="expand_button_title">[ÅðVåñçéð one two]</string>
+    <string name="flip_action_title">[ÐéVîçé ƒļîþ åçţîöñ one two three]</string>
+    <string name="home_label">[Ĥöḿé one]</string>
+    <string name="home_time_zone">[Ĥöḿé ţîḿé žöñé one two three]</string>
+    <string name="home_time_zone_title">[Ĥöḿé ţîḿé žöñé one two three]</string>
+    <string name="hours_label">[ĥ one]</string>
+    <string name="hours_minutes_seconds" formatted="false">[%d:%02d:%02d one]</string>
+    <string name="icon_content_description">[Ðîåļöĝ Îçöñ one two]</string>
+    <string name="invalid_time">[ÎñVåļîð ţîḿé %1$d:%2$d %3$s one two three]</string>
+    <string name="invalid_timer">[ÎñVåļîð ţîḿéŕ šéļéçţéð one two three]</string>
+    <string name="invalid_timer_length">[ÎñVåļîð ţîḿéŕ ļéñĝţĥ one two three]</string>
+    <string name="label">[Ļåɓéļ one]</string>
+    <string name="label_description">[Ļåɓéļ one]</string>
+    <string name="lap_number_double_digit">[# %02d one]</string>
+    <string name="lap_number_single_digit">[# %d one]</string>
+    <string name="loading_widget">[Ļöåðîñĝ… one two]</string>
+    <string name="menu_alarm">[Åļåŕḿ one]</string>
+    <string name="menu_clock">[Çļöçķ one]</string>
+    <string name="menu_item_help">[Ĥéļþ one]</string>
+    <string name="menu_item_night_mode">[Šçŕééñ šåVéŕ one two]</string>
+    <string name="menu_item_settings">[Šéţţîñĝš one two]</string>
+    <string name="menu_item_sort_by_gmt_offset">[Šöŕţ ɓý ţîḿé one two]</string>
+    <string name="menu_item_sort_by_name">[Šöŕţ ɓý ñåḿé one two]</string>
+    <string name="menu_item_widget_settings">[Ŵîðĝéţ šéţţîñĝš one two three]</string>
+    <string name="menu_stopwatch">[Šţöþŵåţçĥ one two]</string>
+    <string name="menu_timer">[Ţîḿéŕ one]</string>
+    <string name="minutes_label">[ḿ one]</string>
+    <string name="minutes_seconds" formatted="false">[%d:%02d one]</string>
+    <string name="missed_alarm_has_been_deleted">[Ýöûŕ ḿîššéð åļåŕḿ ĥåš ɓééñ ðéļéţéð one two three four]</string>
+    <string name="missed_named_timer_notification_label">[Ḿîššéð ţîḿéŕ: %s one two three]</string>
+    <string name="missed_timer_notification_label">[Ḿîššéð ţîḿéŕ one two]</string>
+    <string name="mtrl_chip_close_icon_content_description">[ŔéḿöVé »%1$s« one two]</string>
+    <string name="mtrl_picker_cancel">[Çåñçéļ one two]</string>
+    <string name="mtrl_picker_confirm">[ŠåVé one]</string>
+    <string name="mtrl_picker_header_prompt">[Þîçķ å Ðåţé one two]</string>
+    <string name="mtrl_picker_header_selected">[»%1$s«]</string>
+    <string name="mtrl_picker_range_header_prompt">[Þîçķ å Ðåţé Ŕåñĝé one two three]</string>
+    <string name="mtrl_picker_range_header_selected">[»%1$s« - »%2$s« one]</string>
+    <string name="next_alarm_description">[Ñéхţ åļåŕḿ: %s one two]</string>
+    <string name="next_timer_notif">[Ñéхţ ţîḿéŕ: %s one two]</string>
+    <string name="night_mode_summary">[νéŕý ðîḿ ðîšþļåý (ƒöŕ ðåŕķ ŕööḿš) one two three four]</string>
+    <string name="night_mode_title">[Ñîĝĥţ ḿöðé one two]</string>
+    <string name="no_alarm_at">[Ñö åļåŕḿ åţ %1$d:%2$d one two]</string>
+    <string name="no_alarm_scheduled_for_this_time">[Ñö åļåŕḿ šçĥéðûļéð ƒöŕ ţĥîš ţîḿé one two three four]</string>
+    <string name="no_alarms">[Ñö Åļåŕḿš one two]</string>
+    <string name="no_alarms_with_label">[Ñö åļåŕḿš çöñţåîñ ţĥé ļåɓéļ one two three four]</string>
+    <string name="no_expired_timers">[Ñö éхþîŕéð ţîḿéŕš one two three]</string>
+    <string name="no_firing_alarms">[Ñö ƒîŕîñĝ åļåŕḿš one two three]</string>
+    <string name="no_label_specified">[Ñö ļåɓéļ šþéçîƒîéð one two three]</string>
+    <string name="no_scheduled_alarms">[Ñö šçĥéðûļéð åļåŕḿš one two three]</string>
+    <string name="not_set">[Ñöţ šéţ one two]</string>
+    <string name="open_date_settings">"[Çĥåñĝé ðåţé &amp;  ţîḿé one two three]"</string>
+    <string name="password_toggle_content_description">[Šĥöŵ þåššŵöŕð one two]</string>
+    <string name="pick_alarm_to_dismiss">[Þîçķ ŵĥîçĥ åļåŕḿ ţö ðîšḿîšš one two three four]</string>
+    <string name="preference_copied">[\"%1$s\" çöþîéð ţö çļîþɓöåŕð. one two three]</string>
+    <string name="remove_sound">[ŔéḿöVé one two]</string>
+    <string name="ringtone_description">[Ŕîñĝţöñé one two]</string>
+    <string name="screensaver_settings">[Šçŕééñ šåVéŕ šéţţîñĝš one two three]</string>
+    <string name="search_menu_title">[Šéåŕçĥ one two]</string>
+    <string name="seconds">[%d]</string>
+    <string name="seconds_label">[š one]</string>
+    <string name="selected_cities_label">[Šéļéçţéð Çîţîéš one two three]</string>
+    <string name="settings">[Šéţţîñĝš one two]</string>
+    <string name="shake_action_title">[ÐéVîçé šĥåķé åçţîöñ one two three]</string>
+    <string name="shortcut_new_alarm_long">[Çŕéåţé ñéŵ åļåŕḿ one two three]</string>
+    <string name="shortcut_new_alarm_short">[Ñéŵ åļåŕḿ one two]</string>
+    <string name="shortcut_new_timer_long">[Çŕéåţé ñéŵ ţîḿéŕ one two three]</string>
+    <string name="shortcut_new_timer_short">[Ñéŵ ţîḿéŕ one two]</string>
+    <string name="shortcut_pause_stopwatch_long">[Þåûšé šţöþŵåţçĥ one two three]</string>
+    <string name="shortcut_pause_stopwatch_short">[Þåûšé one]</string>
+    <string name="shortcut_start_screensaver_long">[Šţåŕţ šçŕééñ šåVéŕ one two three]</string>
+    <string name="shortcut_start_screensaver_short">[Šçŕééñ šåVéŕ one two]</string>
+    <string name="shortcut_start_stopwatch_long">[Šţåŕţ šţöþŵåţçĥ one two three]</string>
+    <string name="shortcut_start_stopwatch_short">[Šţåŕţ one]</string>
+    <string name="silent_default_alarm_ringtone">[Ðéƒåûļţ åļåŕḿ ŕîñĝţöñé îš šîļéñţ one two three four]</string>
+    <string name="silent_ringtone_title">[Šîļéñţ one two]</string>
+    <string name="snooze_duration_title">[Šñööžé ļéñĝţĥ one two]</string>
+    <string name="status_bar_notification_info_overflow">[999+ one]</string>
+    <string name="stopwatch_service_desc">[Þŕöçéššéš åçţîöñš ƒŕöḿ šţöþŵåţçĥ ñöţîƒîçåţîöñš. one two three four five six]</string>
+    <string name="summary_collapsed_preference_list">[%1$s, %2$s one]</string>
+    <string name="sw_lap_button">[Ļåþ one]</string>
+    <string name="sw_notification_lap_number">[Ļåþ %d one]</string>
+    <string name="sw_pause_button">[Þåûšé one]</string>
+    <string name="sw_reset_button">[Ŕéšéţ one]</string>
+    <string name="sw_resume_button">[Ŕéšûḿé one two]</string>
+    <string name="sw_share_button">[Šĥåŕé one]</string>
+    <string name="sw_share_laps">[Ļåþ ţîḿéš: one two]</string>
+    <string name="sw_share_main">[Ḿý ţîḿé îš %s one two]</string>
+    <string name="sw_start_button">[Šţåŕţ one]</string>
+    <string name="swn_paused">[Þåûšéð one two]</string>
+    <string name="timer_accessibility_one_minute_added">[Öñé ḿîñûţé åððéð ţö ţîḿéŕ, %1$s one two three four]</string>
+    <string name="timer_accessibility_started">[Ţîḿéŕ ŕûññîñĝ, %1$s one two three]</string>
+    <string name="timer_accessibility_stopped">[Ţîḿéŕ þåûšéð, %1$s one two three]</string>
+    <string name="timer_add_minute">[+ 1:00 one two]</string>
+    <string name="timer_add_timer">[Åðð Ţîḿéŕ one two]</string>
+    <string name="timer_cancel">[Çåñçéļ one two]</string>
+    <string name="timer_canceled">[Ţîḿéŕ çåñçéļéð one two three]</string>
+    <string name="timer_created">[Ţîḿéŕ çŕéåţéð one two]</string>
+    <string name="timer_delete">[Ðéļéţé one two]</string>
+    <string name="timer_deleted">[Ţîḿéŕ ðéļéţéð one two]</string>
+    <string name="timer_descriptive_delete">[Ðéļéţé %s one two]</string>
+    <string name="timer_multi_missed">[%d ţîḿéŕš ḿîššéð one two three]</string>
+    <string name="timer_multi_times_up">[%d ţîḿéŕš éхþîŕéð one two three]</string>
+    <string name="timer_notification_label">[Ţîḿéŕ one]</string>
+    <string name="timer_notifications_hours">[%1$s %3$s]</string>
+    <string name="timer_notifications_hours_minutes">[%1$s %2$s ŕéḿåîñîñĝ one two]</string>
+    <string name="timer_notifications_hours_minutes_seconds">[%1$s %2$s %4$s %3$s]</string>
+    <string name="timer_notifications_hours_seconds">[%1$s %4$s %3$s one]</string>
+    <string name="timer_notifications_less_min">[Ļéšš ţĥåñ å ḿîñûţé ŕéḿåîñîñĝ one two three four]</string>
+    <string name="timer_notifications_minutes">[%2$s %3$s]</string>
+    <string name="timer_notifications_minutes_seconds">[%2$s %4$s %3$s one]</string>
+    <string name="timer_notifications_seconds">[%4$s %3$s]</string>
+    <string name="timer_pause">[Þåûšé one]</string>
+    <string name="timer_paused">[Ţîḿéŕ þåûšéð one two]</string>
+    <string name="timer_plus_1_min">[Åðð 1 ḿîñ one two]</string>
+    <string name="timer_plus_one">[Åðð 1 Ḿîñûţé one two]</string>
+    <string name="timer_remaining_multiple">[ŕéḿåîñîñĝ one two]</string>
+    <string name="timer_remaining_single">[ŕéḿåîñîñĝ one two]</string>
+    <string name="timer_reset">[Ŕéšéţ one]</string>
+    <string name="timer_reset_all">[Ŕéšéţ åļļ ţîḿéŕš one two three]</string>
+    <string name="timer_service_desc">[Þŕöçéššéš åçţîöñš ƒŕöḿ ţîḿéŕ ñöţîƒîçåţîöñš. one two three four five]</string>
+    <string name="timer_settings">[Ţîḿéŕš one two]</string>
+    <string name="timer_setup_description">[%1$s, %2$s, %3$s one]</string>
+    <string name="timer_sound">[Ţîḿéŕ šöûñð one two]</string>
+    <string name="timer_start">[Šţåŕţ one]</string>
+    <string name="timer_stop">[Šţöþ one]</string>
+    <string name="timer_stop_all">[Šţöþ åļļ ţîḿéŕš one two three]</string>
+    <string name="timer_times_up">"[Ţîḿé'š ûþ one two]"</string>
+    <string name="timer_vibrate_title">[Ţîḿéŕ Vîɓŕåţé one two]</string>
+    <string name="timers_in_use">[%d ţîḿéŕš one two]</string>
+    <string name="timers_stopped">[%d ţîḿéŕš þåûšéð one two three]</string>
+    <string name="unknown_ringtone_title">[Ûñķñöŵñ one two]</string>
+    <string name="unmute_alarm_volume">[Ûñḿûţé one two]</string>
+    <string name="v7_preference_off">[ÖFF one]</string>
+    <string name="v7_preference_on">[ÖÑ one]</string>
+    <string name="volume_button_setting_title">[νöļûḿé ɓûţţöñš one two three]</string>
+    <string name="week_start_title">[Šţåŕţ ŵééķ öñ one two]</string>
+    <string name="world_day_of_week_label">[/ %s one]</string>
+    <string name="world_hours_minutes_ahead">[%1$s %2$s åĥéåð one two]</string>
+    <string name="world_hours_minutes_behind">[%1$s %2$s ɓéĥîñð one two]</string>
+    <string name="world_hours_tomorrow">[Ţöḿöŕŕöŵ, %1$s one two]</string>
+    <string name="world_hours_yesterday">[Ýéšţéŕðåý, %1$s one two]</string>
+    <string name="world_time_ahead">[%1$s åĥéåð one two]</string>
+    <string name="world_time_behind">[%1$s ɓéĥîñð one two]</string>
+    <string name="world_tomorrow">[Ţöḿöŕŕöŵ one two]</string>
+    <string name="world_yesterday">[Ýéšţéŕðåý one two]</string>
+    <string name="your_sounds">[Ýöûŕ šöûñðš one two]</string>
+</resources>

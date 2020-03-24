@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="C1">আ=আবিদজান|Africa/Abidjan</string>
+    <string name="C10">ডা=ডাকাৰ|Africa/Dakar</string>
+    <string name="C100">আ=আম্মান|Asia/Amman</string>
+    <string name="C101">আ=আনাদীৰ|Asia/Anadyr</string>
+    <string name="C102">আ=আক্তাউ|Asia/Aqtau</string>
+    <string name="C103">বা=বাগদাদ|Asia/Baghdad</string>
+    <string name="C104">বা=বাহৰেইন|Asia/Bahrain</string>
+    <string name="C105">বা=বাকু|Asia/Baku</string>
+    <string name="C106">বে=বেংকক|Asia/Bangkok</string>
+    <string name="C107">বে=বেইৰুত|Asia/Beirut</string>
+    <string name="C108">"ক'=ক'লকাতা|Asia/Calcutta"</string>
+    <string name="C109">দা=দামাস্কাছ|Asia/Damascus</string>
+    <string name="C11">ডা=ডাৰ এছ ছালাম|Africa/Dar_es_Salaam</string>
+    <string name="C110">ঢা=ঢাকা|Asia/Dhaka</string>
+    <string name="C111">দু=দুবাই|Asia/Dubai</string>
+    <string name="C112">গা=গাজা|Asia/Gaza</string>
+    <string name="C113">"হে=হেব্ৰ'ন|Asia/Hebron"</string>
+    <string name="C114">হো=হো চ্চি মিন|Asia/Ho_Chi_Minh</string>
+    <string name="C115">হ=হংকং:|Asia/Hong_Kong</string>
+    <string name="C117">জা=জাকাৰ্তা|Asia/Jakarta</string>
+    <string name="C118">জে=জেৰুজালেম|Asia/Jerusalem</string>
+    <string name="C119">কা=কাবুল|Asia/Kabul</string>
+    <string name="C12">ডি=ডিজিবুটি|Africa/Djibouti</string>
+    <string name="C120">কা=কাৰাচী|Asia/Karachi</string>
+    <string name="C121">কা=কাঠমাণ্ডু|Asia/Kathmandu</string>
+    <string name="C122">কু=কুৱালা লামপুৰ|Asia/Kuala_Lumpur</string>
+    <string name="C123">কু=কুৱেইত|Asia/Kuwait</string>
+    <string name="C124">মা=মাকাউ|Asia/Macau</string>
+    <string name="C125">মা=মানিলা|Asia/Manila</string>
+    <string name="C126">মা=মাস্কাট|Asia/Muscat</string>
+    <string name="C127">ন=নম পেন|Asia/Phnom_Penh</string>
+    <string name="C128">"পি=পিয়'ঙয়াঙ:|Asia/Pyongyang"</string>
+    <string name="C13">ফ্ৰি=ফ্ৰিটাউন|Africa/Freetown</string>
+    <string name="C130">ৰ=ৰংগুন|Asia/Rangoon</string>
+    <string name="C131">ৰি=ৰিয়াধ|Asia/Riyadh</string>
+    <string name="C133">ছি=ছিওল|Asia/Seoul</string>
+    <string name="C134">ছা=শ্বাংঘাই:|Asia/Shanghai</string>
+    <string name="C135">ছি=ছিংগাপুৰ|Asia/Singapore</string>
+    <string name="C136">তা=তাইপে:|Asia/Taipei</string>
+    <string name="C137">তে=তেহৰান|Asia/Tehran</string>
+    <string name="C138">তে=তেল অভিভ|Asia/Tel_Aviv</string>
+    <string name="C139">"ট=টকিয়':|Asia/Tokyo"</string>
+    <string name="C14">"গে=গেব'ৰোন|Africa/Gaborone"</string>
+    <string name="C140">উ=উলানবাটাৰUlaanbaatar|Asia/Ulaanbaatar</string>
+    <string name="C141">বা=বাৰ্মুডা|Atlantic/Bermuda</string>
+    <string name="C142">কে=কেনেৰী|Atlantic/Canary</string>
+    <string name="C143">কে=কেপ ভেৰ্ডে|Atlantic/Cape_Verde</string>
+    <string name="C144">ৰী=ৰীকজাভিক|Atlantic/Reykjavik</string>
+    <string name="C145">স্টা=স্টানলী|Atlantic/Stanley</string>
+    <string name="C146">এ=এডিলেড|Australia/Adelaide</string>
+    <string name="C147">ব্ৰি=ব্ৰিছবেন|Australia/Brisbane</string>
+    <string name="C148">কে=কেনবেৰা|Australia/Canberra</string>
+    <string name="C149">ডা=ডাৰউইন|Australia/Darwin</string>
+    <string name="C15">হা=হাৰাৰে|Africa/Harare</string>
+    <string name="C150">"মে=মেলব'ৰ্ন|Australia/Melbourne"</string>
+    <string name="C151">নি=নিউ ছাউথ ওয়েল্স|Australia/NSW</string>
+    <string name="C152">পা=পাৰ্থ|Australia/Perth</string>
+    <string name="C153">কু=কুইন্সলেণ্ড|Australia/Queensland</string>
+    <string name="C154">ছি=ছিডনি|Australia/Sydney</string>
+    <string name="C155">ভি=ভিক্টোৰিয়া|Australia/Victoria</string>
+    <string name="C156">নি=নিউফাউণ্ডলেণ্ড|Canada/Newfoundland</string>
+    <string name="C157">ছা=ছাস্কাচ্চেৱান|Canada/Saskatchewan</string>
+    <string name="C158">ই=ইষ্টাৰ আইলেণ্ড|Chile/EasterIsland</string>
+    <string name="C159">এ=এমস্টাৰডেম|Europe/Amsterdam</string>
+    <string name="C16">জো=জোহান্সবাৰ্গ|Africa/Johannesburg</string>
+    <string name="C160">"এ=এণ্ড'ৰা|Europe/Andorra"</string>
+    <string name="C161">এ=এথেন্স|Europe/Athens</string>
+    <string name="C162">বে=বেলফাষ্ট|Europe/Belfast</string>
+    <string name="C163">বে=বেলগ্ৰেড|Europe/Belgrade</string>
+    <string name="C164">বা=বাৰ্লিন|Europe/Berlin</string>
+    <string name="C165">ব্ৰা=ব্ৰাতিস্লাভা|Europe/Bratislava</string>
+    <string name="C166">ব্ৰু=ব্ৰুছেল্স|Europe/Brussels</string>
+    <string name="C167">বু=বুখাৰেষ্ট|Europe/Bucharest</string>
+    <string name="C168">বু=বুডাপেষ্ট|Europe/Budapest</string>
+    <string name="C169">চি=চ্চিছিনাউ|Europe/Chisinau</string>
+    <string name="C17">কা=কাম্পালা|Africa/Kampala</string>
+    <string name="C170">কো=কোপেনহেগেন|Europe/Copenhagen</string>
+    <string name="C171">ডা=ডাবলিন|Europe/Dublin</string>
+    <string name="C172">গি=গিব্ৰাল্টাৰ|Europe/Gibraltar</string>
+    <string name="C173">হে=হেলছিংকী|Europe/Helsinki</string>
+    <string name="C174">আ=আইল অফ মেন|Europe/Isle_of_Man</string>
+    <string name="C175">ই=ইছতানবুল|Europe/Istanbul</string>
+    <string name="C176">কী=কীভ|Europe/Kiev</string>
+    <string name="C177">"লি=লিছব'ন|Europe/Lisbon"</string>
+    <string name="C178">ল=লণ্ডন|Europe/London</string>
+    <string name="C179">লা=লাকজামবাৰ্গ|Europe/Luxembourg</string>
+    <string name="C18">খা=খাৰ্তুম|Africa/Khartoum</string>
+    <string name="C180">মে=মেড্ৰিড|Europe/Madrid</string>
+    <string name="C181">মা=মাল্টা|Europe/Malta</string>
+    <string name="C182">মি=মিন্স্ক|Europe/Minsk</string>
+    <string name="C183">"মো=মোনেক'|Europe/Monaco"</string>
+    <string name="C184">ম=মস্কো|Europe/Moscow</string>
+    <string name="C185">ও=ওস্লো|Europe/Oslo</string>
+    <string name="C186">পে=পেৰিছ|Europe/Paris</string>
+    <string name="C187">প্ৰা=প্ৰাগ|Europe/Prague</string>
+    <string name="C188">ৰি=ৰিগা|Europe/Riga</string>
+    <string name="C189">ৰো=ৰোম|Europe/Rome</string>
+    <string name="C19">কি=কিগালি|Africa/Kigali</string>
+    <string name="C190">ছা=ছান মাৰিনো|Europe/San_Marino</string>
+    <string name="C191">ছা=ছাৰাজেভো|Europe/Sarajevo</string>
+    <string name="C192">"ছি=ছিমফাৰোপ'ল|Europe/Simferopol"</string>
+    <string name="C193">"স্ক'=স্ক'পে|Europe/Skopje"</string>
+    <string name="C194">ছো=ছোফিয়া|Europe/Sofia</string>
+    <string name="C195">"ষ্ট'=ষ্ট'কহোম|Europe/Stockholm"</string>
+    <string name="C196">টা=টাল্লিন|Europe/Tallinn</string>
+    <string name="C197">ভে=ভেটিকান|Europe/Vatican</string>
+    <string name="C198">ভি=ভিয়েনা|Europe/Vienna</string>
+    <string name="C199">ভি=ভিলনিয়াছ|Europe/Vilnius</string>
+    <string name="C2">আ=আক্ৰা|Africa/Accra</string>
+    <string name="C20">কি=কিনশ্বাছা|Africa/Kinshasa</string>
+    <string name="C200">ও=ওৱাৰ্ছা|Europe/Warsaw</string>
+    <string name="C201">জা=জাগ্ৰেব|Europe/Zagreb</string>
+    <string name="C202">জি=জিউৰিক|Europe/Zurich</string>
+    <string name="C203">এ=এন্তানানাৰিভো|Indian/Antananarivo</string>
+    <string name="C204">মা=মালদ্বীপ|Indian/Maldives</string>
+    <string name="C205">ম=মৰিশ্বছ|Indian/Mauritius</string>
+    <string name="C206">"অ'=অ'কলেণ্ড|Pacific/Auckland"</string>
+    <string name="C207">ফি=ফিজি|Pacific/Fiji</string>
+    <string name="C208">গু=গুৱাম|Pacific/Guam</string>
+    <string name="C209">হো=হোনোলুলু|Pacific/Honolulu</string>
+    <string name="C21">লে=লেগোছ|Africa/Lagos</string>
+    <string name="C210">কি=কিৰিতিমাটি|Pacific/Kiritimati</string>
+    <string name="C211">না=নাউমি|Pacific/Noumea</string>
+    <string name="C214">এ=এণ্টিগা|America/Antigua</string>
+    <string name="C215">অ=অষ্টিন|America/Chicago</string>
+    <string name="C216">"ব'=ব'ষ্টন|America/New_York"</string>
+    <string name="C217">কে=কেলগেৰী|America/Denver</string>
+    <string name="C218">ক=কলাম্বাছ|America/New_York</string>
+    <string name="C219">ড=ডলাছ|America/Chicago</string>
+    <string name="C22">মা=মাছেৰু|Africa/Maseru</string>
+    <string name="C220">ন=নক্সভিলে|America/New_York</string>
+    <string name="C221">মে=মেমফিছ|America/Chicago</string>
+    <string name="C222">মা=মায়ামী|America/New_York</string>
+    <string name="C223">মি=মিন্নিয়াপোলিছ|America/Chicago</string>
+    <string name="C224">ও=ওট্টাৱা|America/New_York</string>
+    <string name="C225">ফি=ফিলাডেলফিয়া|America/New_York</string>
+    <string name="C226">"প'=প'ৰ্টলেণ্ড|America/Los_Angeles"</string>
+    <string name="C227">"ছা=ছান ডিএগ'|America/Los_Angeles"</string>
+    <string name="C228">"ছা=ছান ফ্ৰান্সিস্ক'|America/Los_Angeles"</string>
+    <string name="C229">ছা=ছাল্ট লেক চিটি|America/Denver</string>
+    <string name="C23">মো=মোগাদিশ্বু|Africa/Mogadishu</string>
+    <string name="C230">ছা=ছান জোছ|America/Los_Angeles</string>
+    <string name="C231">"ছা=ছান ছালভাড'ৰ|America/Guatemala"</string>
+    <string name="C232">ছি=ছিয়াটল|America/Los_Angeles</string>
+    <string name="C233">ছে=ছেইণ্ট লুইছ|America/Chicago</string>
+    <string name="C234">"ৱা=ৱাশ্বিংট'ন ডি. চি.|America/New_York"</string>
+    <string name="C235">"হু=হুষ্ট'ন|America/Chicago"</string>
+    <string name="C236">"ছা=ছান এণ্ট'নিয়'|America/Chicago"</string>
+    <string name="C237">জে=জেক্সনভিলে|America/New_York</string>
+    <string name="C238">বা=বাল্টিমোৰ|America/New_York</string>
+    <string name="C239">নে=নেশ্বভিলে|America/Chicago</string>
+    <string name="C24">না=নাইৰোবী|Africa/Nairobi</string>
+    <string name="C240">মি=মিলৱাউকী|America/Chicago</string>
+    <string name="C241">ও=ওক্লাহোমা চিটি|America/Chicago</string>
+    <string name="C242">লা=লাছ ভেগাছ|America/Los_Angeles</string>
+    <string name="C243">এ=এলবুকাৰ্ক|America/Denver</string>
+    <string name="C244">"টা=টাক্স'ন|MST"</string>
+    <string name="C245">"ছা=ছাক্ৰামেণ্ট'|America/Los_Angeles"</string>
+    <string name="C246">আ=আটলাণ্টা|America/New_York</string>
+    <string name="C247">ক্লী=ক্লীভলেণ্ড|America/New_York</string>
+    <string name="C248">"নি=নিই অ'ৰ্লিন্স|America/Chicago"</string>
+    <string name="C249">টা=টাম্পা|America/New_York</string>
+    <string name="C25">ছা=ছাও টোম|Africa/Sao_Tome</string>
+    <string name="C250">পি=পিট্ছবাৰ্গ|America/New_York</string>
+    <string name="C251">চি=চিনচিনাটি|America/New_York</string>
+    <string name="C252">মা=মাউণ্টেইন ভিউ|America/Los_Angeles</string>
+    <string name="C253">"ৰে=ৰেন'|America/Los_Angeles"</string>
+    <string name="C254">"ব্লে=ব্লেক ৰ'ক চিটি|America/Los_Angeles"</string>
+    <string name="C255">দো=দোহা|Asia/Riyadh</string>
+    <string name="C256">বে=বেইজিং:|Asia/Shanghai</string>
+    <string name="C257">মু=মুম্বাই|Asia/Kolkata</string>
+    <string name="C258">দি=দিল্লী|Asia/Kolkata</string>
+    <string name="C259">ও=ওছাকা:|Asia/Tokyo</string>
+    <string name="C26">টি=টিম্বক্টু|Africa/Timbuktu</string>
+    <string name="C260">লা=লাহোৰ|Asia/Karachi</string>
+    <string name="C261">ছা=ছানা|Asia/Riyadh</string>
+    <string name="C262">"বা=বাৰ্চিল'না|Europe/Madrid"</string>
+    <string name="C263">মি=মিউনিক|Europe/Berlin</string>
+    <string name="C264">মি=মিলান|Europe/Rome</string>
+    <string name="C265">ফ্ৰে=ফ্ৰেংকফাৰ্ট|Europe/Berlin</string>
+    <string name="C266">হা=হানোই|Asia/Bangkok</string>
+    <string name="C267">আ=আংকাৰা|Europe/Istanbul</string>
+    <string name="C268">বা=বাংগালোৰ|Asia/Kolkata</string>
+    <string name="C269">ব্ৰা=ব্ৰাছিলিয়া|America/Sao_Paulo</string>
+    <string name="C27">"ত্ৰি=ত্ৰিপ'লি|Africa/Tripoli"</string>
+    <string name="C270">কে=কেপ টাউন|Africa/Johannesburg</string>
+    <string name="C271">ই=ইছলামাবাদ|Asia/Karachi</string>
+    <string name="C272">"ৰি=ৰিঅ' ডে জনেইৰ'|America/Sao_Paulo"</string>
+    <string name="C273">"এন=এন আৰব'ৰ|America/Detroit"</string>
+    <string name="C274">বু=বুল্ডাৰ|America/Denver</string>
+    <string name="C275">কে=কেমব্ৰিজ|America/New_York</string>
+    <string name="C276">কি=কিৰ্কলেণ্ড|America/Los_Angeles</string>
+    <string name="C277">"মে=মেডিছ'ন|America/Chicago"</string>
+    <string name="C278">গু=গুৱাংঝাউ:|Asia/Shanghai</string>
+    <string name="C279">হা=হাইদাৰাবাদ|Asia/Kolkata</string>
+    <string name="C28">টি=টিউনিছ|Africa/Tunis</string>
+    <string name="C280">"ৰে=ৰেছট'ন|America/New_York"</string>
+    <string name="C281">"বে=বেল' হ'ৰিজ'ণ্টে|America/Sao_Paulo"</string>
+    <string name="C282">ছা=ছাণ্টিয়াগো|America/Santiago</string>
+    <string name="C283">"মো=মোনৰ'ভিয়া|Africa/Monrovia"</string>
+    <string name="C284">"ক=কলম্ব'|Asia/Colombo"</string>
+    <string name="C285">চ্চি=চ্চিহুৱাহুৱা|America/Chihuahua</string>
+    <string name="C286">"ছা=ছালভাড'ৰ|America/Sao_Paulo"</string>
+    <string name="C287">গু=গুড়গাওঁ|Asia/Kolkata</string>
+    <string name="C288">মে=মেনচ্চেষ্টাৰ|Europe/London</string>
+    <string name="C29">এ=এংকোৰাঝ|America/Anchorage</string>
+    <string name="C290">ছে=ছেইণ্ট পিটৰ্ছবাৰ্গ|Europe/Moscow</string>
+    <string name="C291">ক্ৰা=ক্ৰাকোউ|Europe/Warsaw</string>
+    <string name="C292">"ৰো=ৰোক্ল'|Europe/Warsaw"</string>
+    <string name="C293">হে=হেমবাৰ্গ|Europe/Berlin</string>
+    <string name="C294">আ=আউলু|Europe/Bucharest</string>
+    <string name="C295">হা=হাইফা|Asia/Jerusalem</string>
+    <string name="C296">ছা=ছান জুৱান|America/Puerto_Rico</string>
+    <string name="C297">তে=তেগুচিগাল্পা|America/Tegucigalpa</string>
+    <string name="C298">পা=পাৰামাৰিবো|America/Paramaribo</string>
+    <string name="C299">"কু=কুইট'|America/Panama"</string>
+    <string name="C3">এ=এডিছ অবাবা|Africa/Addis_Ababa</string>
+    <string name="C300">লু=লুব্লিআনা|Europe/Ljubljana</string>
+    <string name="C301">আ=আশ্বগাবাত|Asia/Ashgabat</string>
+    <string name="C302">আ=আছমাৰা|Africa/Asmara</string>
+    <string name="C303">বা=বান্দাৰ ছেৰি বেগাৱান|Asia/Brunei</string>
+    <string name="C304">বা=বাংগুই|Africa/Bangui</string>
+    <string name="C305">বা=বাঞ্জুল|Africa/Banjul</string>
+    <string name="C306">বি=বিছকেক|Asia/Bishkek</string>
+    <string name="C307">বি=বিছাউ|Africa/Bissau</string>
+    <string name="C308">বু=বুজুম্বুৰা|Africa/Bujumbura</string>
+    <string name="C309">ডি=ডিলি|Asia/Dili</string>
+    <string name="C31">আ=আৰুবা|America/Aruba</string>
+    <string name="C310">দু=দুশ্বানবে|Asia/Dushanbe</string>
+    <string name="C311">ফু=ফুনাফুটি|Pacific/Funafuti</string>
+    <string name="C312">হো=হোনিআৰা|Pacific/Guadalcanal</string>
+    <string name="C313">জু=জুবা|Africa/Juba</string>
+    <string name="C314">কি=কিংগছটাউন|America/St_Vincent</string>
+    <string name="C315">লি=লিব্ৰেভিলে|Africa/Libreville</string>
+    <string name="C316">লো=লোম|Africa/Lome</string>
+    <string name="C317">লু=লুআণ্ডা|Africa/Luanda</string>
+    <string name="C318">লু=লুছাকা|Africa/Lusaka</string>
+    <string name="C319">মা=মাজুৰো|Pacific/Majuro</string>
+    <string name="C32">"আ=আছানচিয়'ন|America/Asuncion"</string>
+    <string name="C320">"মা=মালাব'|Africa/Malabo"</string>
+    <string name="C321">"মা=মাপুত'|Africa/Maputo"</string>
+    <string name="C322">ম=মবাবানে|Africa/Mbabane</string>
+    <string name="C323">মো=মোৰোনি|Indian/Comoro</string>
+    <string name="C324">এ=এনজামেনা|Africa/Ndjamena</string>
+    <string name="C325">গে=গেৰুলমুড|Pacific/Palau</string>
+    <string name="C326">নি=নিয়ামী|Africa/Niamey</string>
+    <string name="C327">"নি=নিক'ছিয়া|Europe/Nicosia"</string>
+    <string name="C328">"না=নাউআকচ্চ'ট|Africa/Nouakchott"</string>
+    <string name="C329">নু=নুকুআলোফা|Pacific/Tongatapu</string>
+    <string name="C33">"বা=বাৰ্বাড'ছ|America/Barbados"</string>
+    <string name="C330">আ=আউগাডাউগু|Africa/Ouagadougou</string>
+    <string name="C331">পা=পালিকিৰ|Pacific/Noumea</string>
+    <string name="C332">ফি=ফিলিপ্সবাৰ্গ|America/Lower_Princes</string>
+    <string name="C333">"পো=পোডগ'ৰিকা|Europe/Podgorica"</string>
+    <string name="C334">"প'=প'ৰ্ট ম'ৰেছবি|Pacific/Palau"</string>
+    <string name="C335">"প'=প'ৰ্ট ভিলা|Pacific/Efate"</string>
+    <string name="C336">"প'=প'ৰ্টো-ন'ভো|Africa/Porto-Novo"</string>
+    <string name="C337">প্ৰি=প্ৰিষ্টিনা|Europe/Belgrade</string>
+    <string name="C338">"ৰো=ৰোছ'|America/Dominica"</string>
+    <string name="C339">তা=তাছখণ্ড|Asia/Tashkent</string>
+    <string name="C34">বে=বেলিজ|America/Belize</string>
+    <string name="C340">তি=তিবলিছি|Asia/Tbilisi</string>
+    <string name="C341">থি=থিম্ফু|Asia/Thimphu</string>
+    <string name="C342">তি=তিৰানা|Europe/Tirane</string>
+    <string name="C343">ভা=ভাডুজ|Europe/Vaduz</string>
+    <string name="C344">ভি=ভিয়েণ্টিয়েন|Asia/Vientiane</string>
+    <string name="C345">"ৱি=ৱিণ্ডহ'ক|Africa/Windhoek"</string>
+    <string name="C346">য়া=য়াউণ্ডে|Africa/Douala</string>
+    <string name="C347">য়া=য়াৰেন ডিস্ট্ৰিক্ট|Pacific/Nauru</string>
+    <string name="C348">য়ে=য়েৰেভান|Asia/Yerevan</string>
+    <string name="C35">"ব'=ব'গ'টা|America/Bogota"</string>
+    <string name="C36">বি=বিউনাছ আয়ৰ্স|America/Buenos_Aires</string>
+    <string name="C37">কা=কাংকুন|America/Cancun</string>
+    <string name="C38">কা=কাৰাকাছ|America/Caracas</string>
+    <string name="C39">কে=কেমেন|America/Cayman</string>
+    <string name="C4">আ=আলজায়ৰ্স|Africa/Algiers</string>
+    <string name="C40">"চ্চি=চ্চিকাগ'|America/Chicago"</string>
+    <string name="C42">কু=কুৰাকাও|America/Curacao</string>
+    <string name="C43">"ডা=ডাৱছ'ন ক্ৰীক|America/Dawson_Creek"</string>
+    <string name="C44">ডে=ডেনভাৰ|America/Denver</string>
+    <string name="C45">ডে=ডেট্ৰইট|America/Detroit</string>
+    <string name="C46">"ড'=ড'মিনিকা|America/Dominica"</string>
+    <string name="C47">"এ=এডম'ণ্ট'ন|America/Edmonton"</string>
+    <string name="C48">"এ=এল ছালভাড'ৰ|America/El_Salvador"</string>
+    <string name="C49">"ফ'=ফ'ৰ্টালেজা|America/Fortaleza"</string>
+    <string name="C5">ব্লা=ব্লাণ্টায়াৰ|Africa/Blantyre</string>
+    <string name="C50">গ্ৰা=গ্ৰাণ্ড তুৰ্ক|America/Grand_Turk</string>
+    <string name="C51">গ্ৰে=গ্ৰেনাডা|America/Grenada</string>
+    <string name="C52">গু=গুৱাটেমালা চিটি|America/Guatemala</string>
+    <string name="C53">গা=গায়ানা|America/Guyana</string>
+    <string name="C54">হে=হেলিফেক্স|America/Halifax</string>
+    <string name="C55">হা=হাভানা|America/Havana</string>
+    <string name="C56">ই=ইণ্ডিয়ানাপোলিছ|America/Indiana/Indianapolis</string>
+    <string name="C57">"ন'=ন'ক্স|America/Indiana/Knox"</string>
+    <string name="C58">"মা=মাৰেংগ'|America/Indiana/Marengo"</string>
+    <string name="C59">পি=পিটৰ্সবাৰ্গ|America/Indiana/Petersburg</string>
+    <string name="C6">ব্ৰা=ব্ৰাজাভিলে|Africa/Brazzaville</string>
+    <string name="C60">টে=টেল চিটি|America/Indiana/Tell_City</string>
+    <string name="C61">ভে=ভেভে|America/Indiana/Vevay</string>
+    <string name="C62">ভি=ভিন্সেনেছ|America/Indiana/Vincennes</string>
+    <string name="C63">উ=উইনমেক|America/Indiana/Winamac</string>
+    <string name="C64">"কি=কিংছট'ন|America/Jamaica"</string>
+    <string name="C65">"নি=নিউস্ত্ৰা ছেন'ৰা ডে লা পাজ|America/La_Paz"</string>
+    <string name="C66">লি=লিমা|America/Lima</string>
+    <string name="C67">ল=লছ এঞ্জেলছ|America/Los_Angeles</string>
+    <string name="C68">লু=লুইছভিলে|America/Louisville</string>
+    <string name="C69">মা=মানাগুৱা|America/Managua</string>
+    <string name="C7">কা=কাইৰো|Africa/Cairo</string>
+    <string name="C70">মা=মাৰ্টিনিক|America/Martinique</string>
+    <string name="C71">"মে=মেণ্ড'জা|America/Mendoza"</string>
+    <string name="C72">মে=মেটলাকাটলা|America/Metlakatla</string>
+    <string name="C73">মে=মেক্সিকো চিটি|America/Mexico_City</string>
+    <string name="C74">মো=মোণ্টেৰী|America/Monterrey</string>
+    <string name="C75">"মো=মোণ্টেভিডিঅ'|America/Montevideo"</string>
+    <string name="C76">"ম'=মোন্ট্ৰিল|America/Montreal"</string>
+    <string name="C77">না=নাছাউ|America/Nassau</string>
+    <string name="C78">"নি=নিউ য়'ৰ্ক|America/New_York"</string>
+    <string name="C79">বে=বেউলাহ|America/North_Dakota/Beulah</string>
+    <string name="C8">কা=কাছাব্লাংকা|Africa/Casablanca</string>
+    <string name="C80">চে=চেণ্টাৰ|America/North_Dakota/Center</string>
+    <string name="C81">নি=নিই ছালেম|America/North_Dakota/New_Salem</string>
+    <string name="C82">পা=পানামা|America/Panama</string>
+    <string name="C83">ফি=ফিনিক্স|America/Phoenix</string>
+    <string name="C84">"প'=প'ৰ্ট অফ স্পেইন|America/Port_of_Spain"</string>
+    <string name="C85">"প'=প'ৰ্ট অফ প্ৰিন্স|America/Port-au-Prince"</string>
+    <string name="C86">"প'=প'ৰ্টো ৰিকো|America/Puerto_Rico"</string>
+    <string name="C87">"ছা=ছাণ্ট' ড'মিনিগ'|America/Santo_Domingo"</string>
+    <string name="C88">ছা=ছাউ পাওলো|America/Sao_Paulo</string>
+    <string name="C89">ছে=ছেইণ্ট জোন্স|America/St_Johns</string>
+    <string name="C9">"ক'=ক'নাক্ৰী|Africa/Conakry"</string>
+    <string name="C90">ছে=ছেইণ্ট কিট্ছ|America/St_Kitts</string>
+    <string name="C91">ছে=ছেইণ্ট লুচিয়া|America/St_Lucia</string>
+    <string name="C92">ছে=ছেইণ্ট টমাছ|America/St_Thomas</string>
+    <string name="C93">তি=তুজুৱানা|America/Tijuana</string>
+    <string name="C94">"ট'=ট'ৰণ্ট'|America/Toronto"</string>
+    <string name="C95">ভে=ভেংকুভাৰ|America/Vancouver</string>
+    <string name="C96">উ=উইনিপেগ|America/Winnipeg</string>
+    <string name="C97">দ=দক্ষিণ মেৰু:|Antarctica/South_Pole</string>
+    <string name="C98">ল=লংগিয়াৰবাইন|Arctic/Longyearbyen</string>
+    <string name="C99">আ=আলমাটি|Asia/Almaty</string>
+    <string name="add_new_sound">"নতুন ৰিংট'ন যোগ কৰক"</string>
+    <string name="alarm_alert_dismiss_text">বাতিল কৰক</string>
+    <string name="alarm_alert_off_text">এলাৰ্ম অফ আছে</string>
+    <string name="alarm_alert_predismiss_title">পৰবৰ্তী এলাৰ্ম</string>
+    <string name="alarm_alert_snooze_text">স্নুজ কৰক</string>
+    <string name="alarm_alert_snooze_until">%s বজালৈকে স্নুজ কৰি থকা হৈছে</string>
+    <string name="alarm_alert_snoozed_text">স্নুজ কৰা হ’ল</string>
+    <string name="alarm_cant_be_dismissed_still_more_than_24_hours_away">%s এলাৰ্ম এতিয়াই বাতিল কৰিব নোৱাৰি, এলাৰ্ম বাজিবলৈ আৰু ২৪ ঘণ্টা সময় বাকী আছে</string>
+    <string name="alarm_deleted">এলাৰ্ম মচা হ’ল</string>
+    <string name="alarm_is_dismissed">%s এলাৰ্ম বাতিল কৰা হ’ল</string>
+    <string name="alarm_is_set">এলাৰ্মক %s বজাৰ বাবে ছেট কৰা হৈছে</string>
+    <string name="alarm_is_snoozed">%s ১০ মিনিটৰ বাবে এলাৰ্ম স্নুজ কৰা হ’ল</string>
+    <string name="alarm_missed_text" formatted="false">%s - %s</string>
+    <string name="alarm_missed_title">"আপুনি সজাগ হ'ব নোৱাৰা এলাৰ্ম"</string>
+    <string name="alarm_repeat">পুনৰাবৃত্তি কৰক</string>
+    <string name="alarm_settings">এলাৰ্মসমূহ</string>
+    <string name="alarm_sound">এলাৰ্মৰ ধ্বনি</string>
+    <string name="alarm_today">আজি</string>
+    <string name="alarm_tomorrow">কাইলৈ</string>
+    <string name="alarm_undo">আনডু কৰক</string>
+    <string name="alarm_vibrate">কম্পন</string>
+    <string name="alarm_volume_muted">"এলাৰ্মৰ ভ'লিউম মিউট কৰা হ’ল"</string>
+    <string name="alarm_volume_title">এলাৰ্মৰ ভলিউম</string>
+    <string name="alarms_blocked_by_dnd">"ডিভাইচক সম্পূৰ্ণ নীৰৱ ম'ডত ছেট কৰা হৈছে"</string>
+    <string name="all_timers_stopped_notif">নিজৰ টাইমাৰবোৰ চাবলৈ টিপক</string>
+    <string name="analog_gadget">"এনাল'গ ঘড়ী"</string>
+    <string name="app_label">ঘড়ী</string>
+    <string name="app_notifications_blocked">ঘড়ীৰ জাননীসমূহ অৱৰোধ কৰা হৈছে</string>
+    <string name="auto_silence_never">কেতিয়াও নহয়</string>
+    <string name="auto_silence_title">এই সময়ৰ পিছত নীৰৱ কৰক</string>
+    <string name="automatic_home_clock">স্ৱয়ংক্ৰিয়ভাৱে দেশৰ ঘড়ী দেখুৱাওক</string>
+    <string name="automatic_home_clock_summary">ভিন্ন সময় থকা কোনো ক্ষেত্ৰত যাত্ৰা কৰাৰ সময় নিজৰ দেশৰ সময় দেখুওৱা ঘড়ী যোগ কৰক</string>
+    <string name="button_alarms">এলাৰ্ম যোগ কৰক</string>
+    <string name="button_cities">চহৰবোৰ</string>
+    <string name="change_setting_action">সলনি কৰক</string>
+    <string name="cities_activity_title">চহৰবোৰ</string>
+    <string name="city_checked">%sত টিক চিহ্ন লগোৱা হ’ল</string>
+    <string name="city_unchecked">%sৰ পৰা টিক চিহ্ন আঁতৰোৱা হ’ল</string>
+    <string name="clock_settings">ঘড়ী</string>
+    <string name="clock_style">শৈলী</string>
+    <string name="collapse_alarm">এলাৰ্ম সংকুচিত কৰক</string>
+    <string name="confirm_remove_custom_ringtone">"এই ধ্বনি ব্য়ৱহাৰ কৰা এলাৰ্ম আৰু টাইমাৰসমূহে ইয়াৰ পৰিবৰ্তে ডিফ'ল্ট ধ্বনি প্লে কৰিব।"</string>
+    <string name="copy">প্ৰতিলিপি কৰক</string>
+    <string name="crescendo_duration_title">লাহে লাহে ভলিউম বঢ়াওক</string>
+    <string name="custom_ringtone_lost_permissions">উক্ত ধ্বনিৰ সমল ব্যৱহাৰ কৰিব নোৱাৰি</string>
+    <string name="day_concat">", "</string>
+    <string name="default_alarm_ringtone_title">"এলাৰ্মৰ ডিফ'ল্ট ধ্বনি"</string>
+    <string name="default_label">এলাৰ্ম</string>
+    <string name="default_timer_ringtone_title">টাইমাৰৰ সময় উকলিল</string>
+    <string name="delete">মচক</string>
+    <string name="description_direction_both">স্নুজ কৰিবলৈ বাওঁফালে বা বাতিল কৰিবলৈ সোঁফালে ছুৱাইপ কৰক</string>
+    <string name="description_direction_left">স্নুজ কৰিবলৈ বাওঁফাললৈ ছোৱাইপ কৰক</string>
+    <string name="description_direction_right">বাতিল কৰিবলৈ সোঁফালে ছুৱাইপ কৰক</string>
+    <string name="device_sounds">ডিভাইচৰ ধ্বনি</string>
+    <string name="digital_gadget">ডিজিটল ঘড়ী</string>
+    <string name="dismiss_alarm">এলাৰ্ম বাতিল কৰক</string>
+    <string name="display_clock_seconds_pref">ছেকেণ্ডসহ সময় দেখুৱাওক</string>
+    <string name="every_day">সদায়</string>
+    <string name="expand_alarm">এলাৰ্ম বিস্তাৰ কৰক</string>
+    <string name="expand_button_title">উন্নত</string>
+    <string name="home_label">দেশৰ সময়</string>
+    <string name="home_time_zone">দেশৰ সময় ক্ষেত্ৰ</string>
+    <string name="home_time_zone_title">দেশৰ সময় ক্ষেত্ৰ</string>
+    <string name="hours_label">h</string>
+    <string name="hours_minutes_seconds" formatted="false">%d:%02d:%02d</string>
+    <string name="invalid_time">অমান্য সময় %1$d:%2$d %3$s</string>
+    <string name="invalid_timer">অমান্য টাইমাৰ বাছনি কৰা হ’ল</string>
+    <string name="invalid_timer_length">অমান্য় টাইমাৰৰ দৈৰ্ঘ্য়</string>
+    <string name="label">লেবেল</string>
+    <string name="label_description">লেবেল</string>
+    <string name="lap_number_double_digit">\# %02d</string>
+    <string name="lap_number_single_digit">\# %d</string>
+    <string name="loading_widget">ল’ড হৈ আছে…</string>
+    <string name="menu_alarm">এলাৰ্ম</string>
+    <string name="menu_clock">ঘড়ী</string>
+    <string name="menu_item_help">সহায়</string>
+    <string name="menu_item_night_mode">স্ক্ৰীণ ছেভাৰ</string>
+    <string name="menu_item_settings">ছেটিংসমূহ</string>
+    <string name="menu_item_sort_by_gmt_offset">সময় অনুসৰি সজাওক</string>
+    <string name="menu_item_sort_by_name">নাম অনুসৰি সজাওক</string>
+    <string name="menu_stopwatch">স্টপৱাচ্চ</string>
+    <string name="menu_timer">টাইমাৰ</string>
+    <string name="minutes_label">m</string>
+    <string name="minutes_seconds" formatted="false">%d:%02d</string>
+    <string name="missed_alarm_has_been_deleted">"আপুনি সজাগ হ'ব নোৱাৰা এলাৰ্ম মচা হৈছে"</string>
+    <string name="missed_named_timer_notification_label">"সজাগ হ'ব নোৱাৰা টাইমাৰ: %s"</string>
+    <string name="missed_timer_notification_label">"সজাগ হ'ব নোৱাৰা টাইমাৰ"</string>
+    <string name="next_alarm_description">পৰৱৰ্তী এলাৰ্ম: %s</string>
+    <string name="next_timer_notif">পৰবৰ্তী টাইমাৰ: %s</string>
+    <string name="night_mode_summary">অতি অস্পষ্ট ডিছপ্লে’ (আন্ধাৰ কোঠাবোৰৰ বাবে)</string>
+    <string name="night_mode_title">"ৰাত্ৰি ম'ড"</string>
+    <string name="no_alarm_at">%1$d বজাত কোনো এলাৰ্ম নাই:%2$d</string>
+    <string name="no_alarm_scheduled_for_this_time">এই সময়ৰ বাবে কোনো এলাৰ্ম ধাৰ্য কৰা হোৱা নাই</string>
+    <string name="no_alarms">কোনো এলাৰ্ম নাই</string>
+    <string name="no_alarms_with_label">কোনো এলাৰ্মত লেবেল নাই</string>
+    <string name="no_expired_timers">সময় ওকলা কোনো টাইমাৰ নাই</string>
+    <string name="no_firing_alarms">কোনো সক্ৰিয় এলাৰ্ম নাই</string>
+    <string name="no_label_specified">কোনো লেবেল নিৰ্দিষ্ট কৰা হোৱা নাই</string>
+    <string name="no_scheduled_alarms">ধাৰ্য কৰা কোনো এলাৰ্ম নাই</string>
+    <string name="not_set">ছেট কৰা হোৱা নাই</string>
+    <string name="open_date_settings">তাৰিখ আৰু সময় সলনি কৰক</string>
+    <string name="pick_alarm_to_dismiss">বাতিল কৰিবলগীয়া এলাৰ্ম বাছক</string>
+    <string name="preference_copied">\"%1$s\" ক্লিপব’ৰ্ডত প্ৰতিলিপি কৰা হ’ল</string>
+    <string name="remove_sound">আঁতৰাওক</string>
+    <string name="ringtone_description">ৰিংট’ন</string>
+    <string name="screensaver_settings">স্ক্ৰীণ ছেভাৰ ছেটিংসমূহ</string>
+    <string name="seconds_label">s</string>
+    <string name="selected_cities_label">বাছনি কৰা চহৰবোৰ</string>
+    <string name="settings">ছেটিংসমূহ</string>
+    <string name="shortcut_new_alarm_long">নতুন এলাৰ্ম সৃষ্টি কৰক</string>
+    <string name="shortcut_new_alarm_short">নতুন এলাৰ্ম</string>
+    <string name="shortcut_new_timer_long">নতুন টাইমাৰ সৃষ্টি কৰক</string>
+    <string name="shortcut_new_timer_short">নতুন টাইমাৰ</string>
+    <string name="shortcut_pause_stopwatch_long">স্টপৱাচ্চ পজ কৰক</string>
+    <string name="shortcut_pause_stopwatch_short">পজ কৰক</string>
+    <string name="shortcut_start_screensaver_long">স্ক্ৰীণ ছেভাৰ আৰম্ভ কৰক</string>
+    <string name="shortcut_start_screensaver_short">স্ক্ৰীণ ছেভাৰ</string>
+    <string name="shortcut_start_stopwatch_long">স্টপৱাচ্চ আৰম্ভ কৰক</string>
+    <string name="shortcut_start_stopwatch_short">আৰম্ভ কৰক</string>
+    <string name="silent_default_alarm_ringtone">"ডিফ'ল্ট এলাৰ্ম ৰিংট'ন নীৰৱ ম'ডত আছে"</string>
+    <string name="silent_ringtone_title">"নীৰৱ ম'ড"</string>
+    <string name="snooze_duration_title">স্নুজৰ দৈৰ্ঘ্য়</string>
+    <string name="status_bar_notification_info_overflow">৯৯৯+</string>
+    <string name="stopwatch_service_desc">স্টপৱাচ্চ জাননীৰ পৰা কাৰ্যবিলাকত প্ৰক্ৰিয়া চলায়</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
+    <string name="sw_lap_button">লেপ</string>
+    <string name="sw_notification_lap_number">লেপ %d</string>
+    <string name="sw_pause_button">পজ কৰক</string>
+    <string name="sw_reset_button">ৰিছেট কৰক</string>
+    <string name="sw_resume_button">পুনৰ আৰম্ভ কৰক</string>
+    <string name="sw_share_button">শ্বেয়াৰ কৰক</string>
+    <string name="sw_share_laps">লেপৰ সময়:</string>
+    <string name="sw_share_main">মোৰ সময় %s হয়</string>
+    <string name="sw_start_button">আৰম্ভ কৰক</string>
+    <string name="swn_paused">পজ কৰা হ’ল</string>
+    <string name="timer_accessibility_one_minute_added">টাইমাৰত এক মিনিট যোগ কৰা হ’ল, %1$s</string>
+    <string name="timer_accessibility_started">টাইমাৰ চলি আছে, %1$s</string>
+    <string name="timer_accessibility_stopped">"টাইমাৰ প'জ কৰা হ’ল, %1$s"</string>
+    <string name="timer_add_minute">+ ১:০০</string>
+    <string name="timer_add_timer">টাইমাৰ যোগ কৰক</string>
+    <string name="timer_cancel">বাতিল কৰক</string>
+    <string name="timer_canceled">টাইমাৰ বাতিল কৰা হ’ল</string>
+    <string name="timer_created">টাইমাৰ সৃষ্টি কৰক</string>
+    <string name="timer_delete">মচক</string>
+    <string name="timer_deleted">টাইমাৰ মচক</string>
+    <string name="timer_descriptive_delete">%sটা মচক</string>
+    <string name="timer_multi_missed">"সজাগ হ'ব নোৱাৰা টাইমাৰ %d"</string>
+    <string name="timer_multi_times_up">%d টাইমাৰবোৰৰ মিয়াদ উকলিল</string>
+    <string name="timer_notification_label">টাইমাৰ</string>
+    <string name="timer_notifications_hours">%1$s %3$s</string>
+    <string name="timer_notifications_hours_minutes">%1$s %2$s বাকী আছে</string>
+    <string name="timer_notifications_hours_minutes_seconds">%1$s %2$s %4$s %3$s</string>
+    <string name="timer_notifications_hours_seconds">"%1$s  %4$s %3$s"</string>
+    <string name="timer_notifications_less_min">এক মিনিটতকৈ কম সময় বাকী আছে</string>
+    <string name="timer_notifications_minutes">%2$s %3$s</string>
+    <string name="timer_notifications_minutes_seconds">"%2$s  %4$s %3$s"</string>
+    <string name="timer_notifications_seconds">%4$s %3$s</string>
+    <string name="timer_pause">পজ কৰক</string>
+    <string name="timer_paused">"টাইমাৰ প'জ কৰা হ’ল"</string>
+    <string name="timer_plus_1_min">১ মিনিট যোগ কৰক</string>
+    <string name="timer_plus_one">১ মিনিট যোগ কৰক</string>
+    <string name="timer_remaining_multiple">বাকী আছে</string>
+    <string name="timer_remaining_single">বাকী আছে</string>
+    <string name="timer_reset">ৰিছেট কৰক</string>
+    <string name="timer_reset_all">সকলো টাইমাৰ ৰিছেট কৰক</string>
+    <string name="timer_service_desc">স্টপৱাচ্চ জাননীৰ পৰা কাৰ্যবিলাকত প্ৰক্ৰিয়া চলায়</string>
+    <string name="timer_settings">টাইমাৰবোৰ</string>
+    <string name="timer_setup_description">%1$s, %2$s, %3$s</string>
+    <string name="timer_sound">টাইমাৰৰ ধ্বনি</string>
+    <string name="timer_start">আৰম্ভ কৰক</string>
+    <string name="timer_stop">বন্ধ কৰক</string>
+    <string name="timer_stop_all">সকলো টাইমাৰক ৰখাওক</string>
+    <string name="timer_times_up">সময় শেষ হ’ল</string>
+    <string name="timer_vibrate_title">টাইমাৰ কম্পন</string>
+    <string name="timers_in_use">%dটা টাইমাৰ</string>
+    <string name="timers_stopped">"%dটা টাইমাৰ প'জ কৰা হ’ল"</string>
+    <string name="unknown_ringtone_title">অজ্ঞাত</string>
+    <string name="unmute_alarm_volume">আনমিউট কৰক</string>
+    <string name="v7_preference_off">অফ অৱস্থাত আছে</string>
+    <string name="v7_preference_on">অন কৰক</string>
+    <string name="volume_button_setting_title">ভলিউমৰ বুটাম</string>
+    <string name="week_start_title">সপ্তাহ আৰম্ভ হোৱা দিন</string>
+    <string name="world_day_of_week_label">/ %s</string>
+    <string name="world_hours_minutes_ahead">%1$s %2$s আগত</string>
+    <string name="world_hours_minutes_behind">%1$s %2$s পিছ পৰা</string>
+    <string name="world_hours_tomorrow">কাইলৈ, %1$s আগত</string>
+    <string name="world_hours_yesterday">কালি, %1$s ঘণ্টা পিছ পৰা</string>
+    <string name="world_time_ahead">%1$s আগত</string>
+    <string name="world_time_behind">%1$s পিছ পৰা</string>
+    <string name="world_tomorrow">কাইলৈ</string>
+    <string name="world_yesterday">কালি</string>
+    <string name="your_sounds">আপোনাৰ ধ্বনিবোৰ</string>
+</resources>

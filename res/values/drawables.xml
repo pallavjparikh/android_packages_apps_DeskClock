@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_caret_down">@drawable/ic_caret_down_animation</item>
+    <item type="drawable" name="ic_caret_up">@drawable/ic_caret_up_animation</item>
+    <item type="drawable" name="ic_ringtone_active">@drawable/ic_ringtone_active_animated</item>
+    <item type="drawable" name="ic_tab_alarm">@drawable/ic_tab_alarm_animated</item>
+    <item type="drawable" name="ic_tab_clock">@drawable/ic_tab_clock_animated</item>
+    <item type="drawable" name="ic_tab_stopwatch">@drawable/ic_tab_stopwatch_animated</item>
+    <item type="drawable" name="ic_tab_timer">@drawable/ic_tab_timer_animated</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+</resources>
